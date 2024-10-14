@@ -1,4 +1,4 @@
-# Named-Entity-Recognition-LLM
+# Ammharic Ecommerce Entity Extractor
 
 ## Overview
 This project focuses on implementing a real-time data ingestion system for EthioMart to consolidate e-commerce activities from various Telegram channels into a centralized platform. The primary goal is to develop an Amharic Named Entity Recognition (NER) system capable of extracting key business entities such as product names, prices, and locations.
