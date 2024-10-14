@@ -1,3 +1,7 @@
+
+
+
+
 ለኮንዶሚኒየም B-PRODUCT
 ለጠባብ I-PRODUCT
 ቤቶች I-PRODUCT
@@ -136,6 +140,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 Baby B-PRODUCT
 romper I-PRODUCT
 ከላዩ I-PRODUCT
@@ -255,6 +265,10 @@ in O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Chicco B-PRODUCT
 5 I-PRODUCT
 in I-PRODUCT
@@ -373,6 +387,18 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
 
 aiebao B-PRODUCT
 HIP I-PRODUCT
@@ -497,6 +523,24 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Kids B-PRODUCT
 mat I-PRODUCT
 4100 I-PRICE
@@ -605,6 +649,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Wearable B-PRODUCT
 breast I-PRODUCT
@@ -754,6 +806,12 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
 Double B-PRODUCT
 layer I-PRODUCT
 lunch I-PRODUCT
@@ -868,6 +926,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 50 B-PRODUCT
 pcs I-PRODUCT
 balls I-PRODUCT
@@ -977,6 +1039,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Infantino B-PRODUCT
 baby I-PRODUCT
@@ -1098,6 +1166,22 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Mastela B-PRODUCT
 deluxe I-PRODUCT
@@ -1286,6 +1370,8 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 ክቡራን B-PRODUCT
 ደምበኞቻችን I-PRODUCT
 እሁድ I-PRODUCT
@@ -1305,6 +1391,18 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
 
 world's B-PRODUCT
 number I-PRODUCT
@@ -1502,6 +1600,20 @@ FF-09 O
 ፈጣሪ I-PRODUCT
 ይጠብቅልን I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Inflatable B-PRODUCT
 Baby I-PRODUCT
 Seat I-PRODUCT
@@ -1642,6 +1754,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 Zimeitu B-PRODUCT
 brand I-PRODUCT
 Baby I-PRODUCT
@@ -1762,6 +1880,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Philips B-PRODUCT
 Avent I-PRODUCT
@@ -1899,6 +2027,28 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 baby B-PRODUCT
 travel I-PRODUCT
@@ -2058,6 +2208,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 350 B-PRODUCT
 birr I-PRODUCT
 for I-PRODUCT
@@ -2187,6 +2341,26 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Mama B-PRODUCT
 love I-PRODUCT
@@ -2326,6 +2500,18 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
 
 Sayona B-PRODUCT
 5 I-PRODUCT
@@ -2482,6 +2668,14 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 nail I-PRODUCT
 trimmer I-PRODUCT
@@ -2631,6 +2825,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Only B-PRODUCT
 baby I-PRODUCT
@@ -3062,6 +3264,8 @@ FF-09 O
 ምን O
 አደረኩት። O
 
+
+
 Kids B-PRODUCT
 underwear I-PRODUCT
 1 I-PRODUCT
@@ -3172,6 +3376,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Chrisbella B-PRODUCT
 brand I-PRODUCT
@@ -3287,6 +3501,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Chrisbella B-PRODUCT
 brand I-PRODUCT
@@ -3697,6 +3921,8 @@ FF-09 O
 ይሆናል።እወድሻለሁ O
 ሔቨን። O
 
+
+
 ገዳይ B-PRODUCT
 በአሸዋ I-PRODUCT
 ምርግ I-PRODUCT
@@ -3936,6 +4162,18 @@ FF-09 O
 አሰረዱላት!!!ፍትህ O
 ይበየንላት!!! O
 
+
+
+
+
+
+
+
+
+
+
+
+
 #ሼር_ፖስት B-PRODUCT
 አስቸኳይ I-PRODUCT
 እባካችሁ I-PRODUCT
@@ -4061,6 +4299,8 @@ FF-09 O
 በማድረግ O
 ከጎኗ O
 እንቁም O
+
+
 
 ክቡራን B-PRODUCT
 ደምበኞቻችን I-PRODUCT
@@ -4195,6 +4435,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 C8 B-PRODUCT
 High I-PRODUCT
 quality I-PRODUCT
@@ -4308,6 +4556,8 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 Baby B-PRODUCT
 bath I-PRODUCT
 mat I-PRODUCT
@@ -4413,6 +4663,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 COTTONBEBE B-PRODUCT
 Silicone I-PRODUCT
@@ -4540,6 +4800,20 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Sky B-PRODUCT
 baby I-PRODUCT
@@ -4680,6 +4954,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 kids B-PRODUCT
 school I-PRODUCT
@@ -4908,6 +5190,18 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
 kids B-PRODUCT
 school I-PRODUCT
 bags I-PRODUCT
@@ -5027,6 +5321,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Cartoon B-PRODUCT
 Design I-PRODUCT
@@ -5159,6 +5461,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Cartoon B-PRODUCT
 bear I-PRODUCT
@@ -5292,6 +5604,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Cartoon B-PRODUCT
 Rabbit I-PRODUCT
@@ -5541,6 +5861,18 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
 Hide B-PRODUCT
 and I-PRODUCT
 seek I-PRODUCT
@@ -5650,6 +5982,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Bento B-PRODUCT
 lunch I-PRODUCT
@@ -6226,6 +6562,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 High B-PRODUCT
 quality I-PRODUCT
 kids I-PRODUCT
@@ -6337,6 +6677,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 High B-PRODUCT
 quality I-PRODUCT
@@ -6460,6 +6806,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 High B-PRODUCT
 quality I-PRODUCT
@@ -6587,6 +6941,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 High B-PRODUCT
 quality I-PRODUCT
 kids I-PRODUCT
@@ -6704,6 +7068,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 High B-PRODUCT
 quality I-PRODUCT
@@ -6843,6 +7217,14 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
 Volkswagen B-PRODUCT
 design I-PRODUCT
 የልጆችን I-PRODUCT
@@ -6961,6 +7343,18 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
 
 5 B-PRODUCT
 pcs I-PRODUCT
@@ -7095,6 +7489,24 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 የልጆች B-PRODUCT
 አልጋ I-PRODUCT
@@ -7249,6 +7661,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 LONDONY B-PRODUCT
 BABY I-PRODUCT
 high I-PRODUCT
@@ -7384,6 +7802,10 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
 Pretty B-PRODUCT
 baby I-PRODUCT
 pacifier I-PRODUCT
@@ -7489,6 +7911,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Nipple B-PRODUCT
 shield I-PRODUCT
@@ -7701,6 +8127,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 4pcs B-PRODUCT
 bottle I-PRODUCT
 brush I-PRODUCT
@@ -7806,6 +8236,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Silicone B-PRODUCT
 baby I-PRODUCT
@@ -7917,6 +8355,8 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 Teether B-PRODUCT
 glove I-PRODUCT
 300 I-PRICE
@@ -8022,6 +8462,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Fruit B-PRODUCT
 feeder I-PRODUCT
 ከፍሩት I-PRODUCT
@@ -8037,12 +8481,16 @@ feeder I-PRODUCT
 300 I-PRICE
 birr I-PRICE
 
+
+
 ፒንክ B-PRODUCT
 ከለር I-PRODUCT
 አለው I-PRODUCT
 250ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
 
 High B-PRODUCT
 quality I-PRODUCT
@@ -8262,6 +8710,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 ልጆች B-PRODUCT
 ዳዴ I-PRODUCT
 ማለት I-PRODUCT
@@ -8377,6 +8831,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 baby B-PRODUCT
 stroller I-PRODUCT
@@ -8525,6 +8987,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 5-in-1 I-PRODUCT
@@ -8776,6 +9246,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 Sonifer B-PRODUCT
 5 I-PRODUCT
 IN I-PRODUCT
@@ -8911,6 +9389,22 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ወንበር B-PRODUCT
 ላይ I-PRODUCT
 መገጠም I-PRODUCT
@@ -9027,6 +9521,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 12 B-PRODUCT
 pcs I-PRODUCT
@@ -9159,6 +9657,10 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
 
 Storage B-PRODUCT
 box I-PRODUCT
@@ -9389,6 +9891,8 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 High B-PRODUCT
 quality I-PRODUCT
 baby I-PRODUCT
@@ -9499,6 +10003,18 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
 
 Newborn B-PRODUCT
 Lounger I-PRODUCT
@@ -9838,6 +10354,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Mothers B-PRODUCT
 choice I-PRODUCT
 5 I-PRODUCT
@@ -9950,6 +10470,24 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Baby, B-PRODUCT
 Kids, I-PRODUCT
@@ -10082,6 +10620,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Kids B-PRODUCT
 fur I-PRODUCT
 non-slip I-PRODUCT
@@ -10194,6 +10736,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Fashion B-PRODUCT
 Printed I-PRODUCT
@@ -10316,6 +10862,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 በጣም B-PRODUCT
 ረጅም I-PRODUCT
@@ -10557,6 +11109,16 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 mosquito I-PRODUCT
 net I-PRODUCT
@@ -10662,6 +11224,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 walker I-PRODUCT
@@ -10854,6 +11424,12 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
 Infantino B-PRODUCT
 baby I-PRODUCT
 carier I-PRODUCT
@@ -10974,6 +11550,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 የህጻናት B-PRODUCT
 ሙሉ I-PRODUCT
@@ -11106,6 +11686,18 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
 
 Sky B-PRODUCT
 Baby I-PRODUCT
@@ -11245,6 +11837,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 high I-PRODUCT
 chair I-PRODUCT
@@ -11382,6 +11982,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 3pcs B-PRODUCT
 Scarf I-PRODUCT
 hat I-PRODUCT
@@ -11492,6 +12096,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Girl's B-PRODUCT
 1st I-PRODUCT
@@ -11716,6 +12324,8 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 1500 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -11855,6 +12465,20 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Anti B-PRODUCT
 slip I-PRODUCT
 kids I-PRODUCT
@@ -11961,6 +12585,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
@@ -12104,6 +12736,10 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
 Aptamil B-PRODUCT
 UK I-PRODUCT
 Available O
@@ -12186,6 +12822,8 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 Baby B-PRODUCT
 Kid I-PRODUCT
@@ -12359,6 +12997,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 Kids B-PRODUCT
 Scooter I-PRODUCT
 ስኩተሩ O
@@ -12495,6 +13139,14 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
 
 ለኮንዶሚኒየም B-PRODUCT
 ለጠባብ I-PRODUCT
@@ -12644,6 +13296,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 ለኮንዶሚኒየም B-PRODUCT
 ለጠባብ I-PRODUCT
 ቤቶች I-PRODUCT
@@ -12781,6 +13437,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 ለተወሰነ B-PRODUCT
 ጊዜ I-PRODUCT
@@ -12954,6 +13616,28 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 baby B-PRODUCT
 travel I-PRODUCT
 playpen I-PRODUCT
@@ -13111,6 +13795,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 ኦሪጅናሉ B-PRODUCT
 sinboss I-PRODUCT
@@ -13339,6 +14027,12 @@ https://t.me/sinayelj2 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 mama B-PRODUCT
 bag I-PRODUCT
 ኦሪጅናል O
@@ -13378,6 +14072,12 @@ https://t.me/sinayelj2 O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
 
 Chicco B-PRODUCT
 baby I-PRODUCT
@@ -13492,6 +14192,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 KIDILO B-PRODUCT
 BABY O
@@ -13637,6 +14345,10 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
 300 B-PRODUCT
 birr I-PRODUCT
 per I-PRODUCT
@@ -13671,6 +14383,12 @@ https://t.me/sinayelj2 O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
 200 B-PRODUCT
 birr I-PRODUCT
 per I-PRODUCT
@@ -13704,6 +14422,10 @@ https://t.me/sinayelj2 O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 High B-PRODUCT
 quality I-PRODUCT
@@ -13742,6 +14464,10 @@ https://t.me/sinayelj2 O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 HUDSON B-PRODUCT
 BABY I-PRODUCT
@@ -13786,6 +14512,18 @@ https://t.me/sinayelj2 O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
+
+
+
+
 gentlemen B-PRODUCT
 romper I-PRODUCT
 with I-PRODUCT
@@ -13821,6 +14559,12 @@ https://t.me/sinayelj2 O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
 
 Toddler B-PRODUCT
 Baby I-PRODUCT
@@ -13868,6 +14612,10 @@ https://t.me/sinayelj2 O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
 Baby B-PRODUCT
 girl I-PRODUCT
 high I-PRODUCT
@@ -13904,6 +14652,10 @@ https://t.me/sinayelj2 O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 Baby B-PRODUCT
 girl I-PRODUCT
@@ -13945,6 +14697,14 @@ https://t.me/sinayelj2 O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
 
 The B-PRODUCT
 happy I-PRODUCT
@@ -14116,6 +14876,22 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Quality B-PRODUCT
 new I-PRODUCT
 model I-PRODUCT
@@ -14225,6 +15001,18 @@ Free O
 delivery O
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 walker I-PRODUCT
@@ -14417,6 +15205,16 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
 ወንበር B-PRODUCT
 ላይ I-PRODUCT
 መገጠም I-PRODUCT
@@ -14533,6 +15331,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Kids B-PRODUCT
 Electric I-PRODUCT
@@ -14674,6 +15480,8 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
 13 B-PRODUCT
 pec I-PRODUCT
 baby I-PRODUCT
@@ -14787,6 +15595,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Strow B-PRODUCT
 cup I-PRODUCT
@@ -15123,6 +15935,24 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Kids B-PRODUCT
 mat I-PRODUCT
 4100 I-PRICE
@@ -15231,6 +16061,20 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 infant B-PRODUCT
 to I-PRODUCT
@@ -15346,6 +16190,22 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Mastela B-PRODUCT
 deluxe I-PRODUCT
@@ -15534,6 +16394,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 car I-PRODUCT
 seat I-PRODUCT
@@ -15702,6 +16572,10 @@ FF-09 O
 ቀን I-PRODUCT
 እንሰጣለን I-PRODUCT
 
+
+
+
+
 baby B-PRODUCT
 bather I-PRODUCT
 1900birr I-PRICE
@@ -15815,6 +16689,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Burbay B-PRODUCT
 baby I-PRODUCT
@@ -15995,6 +16875,18 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
+
+
 ጎማ B-PRODUCT
 ያለው I-PRODUCT
 እንዲሁም I-PRODUCT
@@ -16126,6 +17018,28 @@ FF-09 O
 እናበስራለን O
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 VERY B-PRODUCT
 HIGH I-PRODUCT
@@ -16279,6 +17193,12 @@ playpen I-PRODUCT
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
 
 Dr B-PRODUCT
 Gym I-PRODUCT
@@ -16567,6 +17487,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 Peggy B-PRODUCT
 bank I-PRODUCT
 0909003864 I-PHONE
@@ -16783,6 +17709,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 Only B-PRODUCT
 baby I-PRODUCT
 double I-PRODUCT
@@ -16912,6 +17846,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 Kids B-PRODUCT
 Scooter I-PRODUCT
 መንዳት O
@@ -17040,6 +17984,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Spider B-PRODUCT
 Man I-PRODUCT
@@ -17171,6 +18121,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 Multivitamin B-PRODUCT
 300g O
 for O
@@ -17264,6 +18224,16 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Similac B-PRODUCT
 360 I-PRODUCT
@@ -17417,6 +18387,10 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
 
 15 B-PRODUCT
 pcs I-PRODUCT
@@ -17649,6 +18623,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 3 B-PRODUCT
 pcs I-PRODUCT
 headband I-PRODUCT
@@ -17812,6 +18790,16 @@ FF-09 O
 ሲና O
 ኪድስ O
 
+
+
+
+
+
+
+
+
+
+
 3 B-PRODUCT
 pcs I-PRODUCT
 hooded I-PRODUCT
@@ -17922,6 +18910,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Royal B-PRODUCT
 Master I-PRODUCT
@@ -18078,6 +19074,20 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
 የሚገዛ I-PRODUCT
@@ -18199,6 +19209,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
@@ -18351,6 +19371,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 baby B-PRODUCT
 babi I-PRODUCT
 የልጆችን O
@@ -18468,6 +19498,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Windproof B-PRODUCT
 And I-PRODUCT
@@ -18697,6 +19731,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 2 B-PRODUCT
 in I-PRODUCT
 1 I-PRODUCT
@@ -18810,118 +19848,7 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-2 B-PRODUCT
-in I-PRODUCT
-1 I-PRODUCT
-baby I-PRODUCT
-girl I-PRODUCT
-dress I-PRODUCT
-2200 I-PRICE
-birr I-PRICE
-0909003864 I-PHONE
-0905707448 I-PHONE
-ሊንኩን O
-በመጫን O
-ቴሌግራማችንን O
-ይቀላቀሉhttps://t.me/sinayelj O
-እቃ O
-ለማዘዝ O
-ከስር O
-ያለውን O
-ሊንኮች O
-በመጫን O
-ማዘዝ O
-ትችላላቹ O
-@sinasinaye O
-https://t.me/sinayelj2 O
-አድራሻ O
-1⃣ቁጥር1 O
-ገርጂ I-LOC
-ኢምፔሪያል I-LOC
-ከሳሚ O
-ህንፃ I-LOC
-ጎን O
-አልፎዝ O
-ፕላዛ I-LOC
-ግራውንድ O
-ላይ O
-እንደገቡ O
-ያገኙናል O
-2⃣ቁጥር2 O
-4ኪሎ I-LOC
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ማለትም O
-ከብልፅግና O
-ዋናፅፈት O
-ቤት O
-ህንፃ I-LOC
-በስተ O
-ቀኝ O
-ባለው O
-አስፓልት O
-20ሜትር O
-ዝቅ O
-እንዳሉ O
-ሀበሻ O
-ኮፊ O
-የሚገኝበት O
-ቀይ O
-ሸክላ O
-ህንፃ I-LOC
-2ተኛ O
-ፎቅ I-LOC
-ላይ O
-ያገኙናል O
-3⃣ቁጥር3 O
-ብስራተ I-LOC
-ገብርኤል I-PRICE
-ላፍቶ I-LOC
-ሞል I-LOC
-መግቢያው O
-ፊት O
-ለፊት O
-የሚገኘው O
-የብስራተ I-LOC
-ገብርኤል I-PRICE
-ቤተ O
-ክርስቲያን O
-ህንፃ I-LOC
-አንደኛ O
-ፎቅ I-LOC
-ላይ O
-ደረጃ O
-እንደወጣቹ O
-በስተግራ O
-በኩል O
-ሱቅ O
-ቁጥር O
-FF-09 O
-ክቡራን O
-ደምበኞቻችን O
-ገርጂ I-LOC
-አልፎዝ O
-ፕላዛ I-LOC
-ላይ O
-አራት O
-ኪሎ O
-ቅድስት O
-ስላሴ I-LOC
-እንዲሁም O
-ብስራተ I-LOC
-ገብሬል O
-ያሉት O
-ሱቆቻችን O
-ሲመጡ O
-አስተማማኝ O
-ሰፊ O
-ፓርኪንግ O
-ያላቸው O
-መሆናቸውን O
-በታላቅ O
-ደስታ O
-እናበስራለን O
+
 
 2 B-PRODUCT
 in I-PRODUCT
@@ -19036,118 +19963,9 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-2 B-PRODUCT
-in I-PRODUCT
-1 I-PRODUCT
-baby I-PRODUCT
-girl I-PRODUCT
-dress I-PRODUCT
-2200 I-PRICE
-birr I-PRICE
-0909003864 I-PHONE
-0905707448 I-PHONE
-ሊንኩን O
-በመጫን O
-ቴሌግራማችንን O
-ይቀላቀሉhttps://t.me/sinayelj O
-እቃ O
-ለማዘዝ O
-ከስር O
-ያለውን O
-ሊንኮች O
-በመጫን O
-ማዘዝ O
-ትችላላቹ O
-@sinasinaye O
-https://t.me/sinayelj2 O
-አድራሻ O
-1⃣ቁጥር1 O
-ገርጂ I-LOC
-ኢምፔሪያል I-LOC
-ከሳሚ O
-ህንፃ I-LOC
-ጎን O
-አልፎዝ O
-ፕላዛ I-LOC
-ግራውንድ O
-ላይ O
-እንደገቡ O
-ያገኙናል O
-2⃣ቁጥር2 O
-4ኪሎ I-LOC
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ማለትም O
-ከብልፅግና O
-ዋናፅፈት O
-ቤት O
-ህንፃ I-LOC
-በስተ O
-ቀኝ O
-ባለው O
-አስፓልት O
-20ሜትር O
-ዝቅ O
-እንዳሉ O
-ሀበሻ O
-ኮፊ O
-የሚገኝበት O
-ቀይ O
-ሸክላ O
-ህንፃ I-LOC
-2ተኛ O
-ፎቅ I-LOC
-ላይ O
-ያገኙናል O
-3⃣ቁጥር3 O
-ብስራተ I-LOC
-ገብርኤል I-PRICE
-ላፍቶ I-LOC
-ሞል I-LOC
-መግቢያው O
-ፊት O
-ለፊት O
-የሚገኘው O
-የብስራተ I-LOC
-ገብርኤል I-PRICE
-ቤተ O
-ክርስቲያን O
-ህንፃ I-LOC
-አንደኛ O
-ፎቅ I-LOC
-ላይ O
-ደረጃ O
-እንደወጣቹ O
-በስተግራ O
-በኩል O
-ሱቅ O
-ቁጥር O
-FF-09 O
-ክቡራን O
-ደምበኞቻችን O
-ገርጂ I-LOC
-አልፎዝ O
-ፕላዛ I-LOC
-ላይ O
-አራት O
-ኪሎ O
-ቅድስት O
-ስላሴ I-LOC
-እንዲሁም O
-ብስራተ I-LOC
-ገብሬል O
-ያሉት O
-ሱቆቻችን O
-ሲመጡ O
-አስተማማኝ O
-ሰፊ O
-ፓርኪንግ O
-ያላቸው O
-መሆናቸውን O
-በታላቅ O
-ደስታ O
-እናበስራለን O
+
+
+
 
 2 B-PRODUCT
 in I-PRODUCT
@@ -19262,118 +20080,11 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-2 B-PRODUCT
-in I-PRODUCT
-1 I-PRODUCT
-baby I-PRODUCT
-girl I-PRODUCT
-dress I-PRODUCT
-2200 I-PRICE
-birr I-PRICE
-0909003864 I-PHONE
-0905707448 I-PHONE
-ሊንኩን O
-በመጫን O
-ቴሌግራማችንን O
-ይቀላቀሉhttps://t.me/sinayelj O
-እቃ O
-ለማዘዝ O
-ከስር O
-ያለውን O
-ሊንኮች O
-በመጫን O
-ማዘዝ O
-ትችላላቹ O
-@sinasinaye O
-https://t.me/sinayelj2 O
-አድራሻ O
-1⃣ቁጥር1 O
-ገርጂ I-LOC
-ኢምፔሪያል I-LOC
-ከሳሚ O
-ህንፃ I-LOC
-ጎን O
-አልፎዝ O
-ፕላዛ I-LOC
-ግራውንድ O
-ላይ O
-እንደገቡ O
-ያገኙናል O
-2⃣ቁጥር2 O
-4ኪሎ I-LOC
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ማለትም O
-ከብልፅግና O
-ዋናፅፈት O
-ቤት O
-ህንፃ I-LOC
-በስተ O
-ቀኝ O
-ባለው O
-አስፓልት O
-20ሜትር O
-ዝቅ O
-እንዳሉ O
-ሀበሻ O
-ኮፊ O
-የሚገኝበት O
-ቀይ O
-ሸክላ O
-ህንፃ I-LOC
-2ተኛ O
-ፎቅ I-LOC
-ላይ O
-ያገኙናል O
-3⃣ቁጥር3 O
-ብስራተ I-LOC
-ገብርኤል I-PRICE
-ላፍቶ I-LOC
-ሞል I-LOC
-መግቢያው O
-ፊት O
-ለፊት O
-የሚገኘው O
-የብስራተ I-LOC
-ገብርኤል I-PRICE
-ቤተ O
-ክርስቲያን O
-ህንፃ I-LOC
-አንደኛ O
-ፎቅ I-LOC
-ላይ O
-ደረጃ O
-እንደወጣቹ O
-በስተግራ O
-በኩል O
-ሱቅ O
-ቁጥር O
-FF-09 O
-ክቡራን O
-ደምበኞቻችን O
-ገርጂ I-LOC
-አልፎዝ O
-ፕላዛ I-LOC
-ላይ O
-አራት O
-ኪሎ O
-ቅድስት O
-ስላሴ I-LOC
-እንዲሁም O
-ብስራተ I-LOC
-ገብሬል O
-ያሉት O
-ሱቆቻችን O
-ሲመጡ O
-አስተማማኝ O
-ሰፊ O
-ፓርኪንግ O
-ያላቸው O
-መሆናቸውን O
-በታላቅ O
-ደስታ O
-እናበስራለን O
+
+
+
+
+
 
 2 B-PRODUCT
 in I-PRODUCT
@@ -19488,6 +20199,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 2 B-PRODUCT
 in I-PRODUCT
 1 I-PRODUCT
@@ -19600,6 +20315,367 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+2 B-PRODUCT
+in I-PRODUCT
+1 I-PRODUCT
+baby I-PRODUCT
+girl I-PRODUCT
+dress I-PRODUCT
+2200 I-PRICE
+birr I-PRICE
+0909003864 I-PHONE
+0905707448 I-PHONE
+ሊንኩን O
+በመጫን O
+ቴሌግራማችንን O
+ይቀላቀሉhttps://t.me/sinayelj O
+እቃ O
+ለማዘዝ O
+ከስር O
+ያለውን O
+ሊንኮች O
+በመጫን O
+ማዘዝ O
+ትችላላቹ O
+@sinasinaye O
+https://t.me/sinayelj2 O
+አድራሻ O
+1⃣ቁጥር1 O
+ገርጂ I-LOC
+ኢምፔሪያል I-LOC
+ከሳሚ O
+ህንፃ I-LOC
+ጎን O
+አልፎዝ O
+ፕላዛ I-LOC
+ግራውንድ O
+ላይ O
+እንደገቡ O
+ያገኙናል O
+2⃣ቁጥር2 O
+4ኪሎ I-LOC
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ማለትም O
+ከብልፅግና O
+ዋናፅፈት O
+ቤት O
+ህንፃ I-LOC
+በስተ O
+ቀኝ O
+ባለው O
+አስፓልት O
+20ሜትር O
+ዝቅ O
+እንዳሉ O
+ሀበሻ O
+ኮፊ O
+የሚገኝበት O
+ቀይ O
+ሸክላ O
+ህንፃ I-LOC
+2ተኛ O
+ፎቅ I-LOC
+ላይ O
+ያገኙናል O
+3⃣ቁጥር3 O
+ብስራተ I-LOC
+ገብርኤል I-PRICE
+ላፍቶ I-LOC
+ሞል I-LOC
+መግቢያው O
+ፊት O
+ለፊት O
+የሚገኘው O
+የብስራተ I-LOC
+ገብርኤል I-PRICE
+ቤተ O
+ክርስቲያን O
+ህንፃ I-LOC
+አንደኛ O
+ፎቅ I-LOC
+ላይ O
+ደረጃ O
+እንደወጣቹ O
+በስተግራ O
+በኩል O
+ሱቅ O
+ቁጥር O
+FF-09 O
+ክቡራን O
+ደምበኞቻችን O
+ገርጂ I-LOC
+አልፎዝ O
+ፕላዛ I-LOC
+ላይ O
+አራት O
+ኪሎ O
+ቅድስት O
+ስላሴ I-LOC
+እንዲሁም O
+ብስራተ I-LOC
+ገብሬል O
+ያሉት O
+ሱቆቻችን O
+ሲመጡ O
+አስተማማኝ O
+ሰፊ O
+ፓርኪንግ O
+ያላቸው O
+መሆናቸውን O
+በታላቅ O
+ደስታ O
+እናበስራለን O
+
+
+
+
+
+2 B-PRODUCT
+in I-PRODUCT
+1 I-PRODUCT
+baby I-PRODUCT
+girl I-PRODUCT
+dress I-PRODUCT
+2200 I-PRICE
+birr I-PRICE
+0909003864 I-PHONE
+0905707448 I-PHONE
+ሊንኩን O
+በመጫን O
+ቴሌግራማችንን O
+ይቀላቀሉhttps://t.me/sinayelj O
+እቃ O
+ለማዘዝ O
+ከስር O
+ያለውን O
+ሊንኮች O
+በመጫን O
+ማዘዝ O
+ትችላላቹ O
+@sinasinaye O
+https://t.me/sinayelj2 O
+አድራሻ O
+1⃣ቁጥር1 O
+ገርጂ I-LOC
+ኢምፔሪያል I-LOC
+ከሳሚ O
+ህንፃ I-LOC
+ጎን O
+አልፎዝ O
+ፕላዛ I-LOC
+ግራውንድ O
+ላይ O
+እንደገቡ O
+ያገኙናል O
+2⃣ቁጥር2 O
+4ኪሎ I-LOC
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ማለትም O
+ከብልፅግና O
+ዋናፅፈት O
+ቤት O
+ህንፃ I-LOC
+በስተ O
+ቀኝ O
+ባለው O
+አስፓልት O
+20ሜትር O
+ዝቅ O
+እንዳሉ O
+ሀበሻ O
+ኮፊ O
+የሚገኝበት O
+ቀይ O
+ሸክላ O
+ህንፃ I-LOC
+2ተኛ O
+ፎቅ I-LOC
+ላይ O
+ያገኙናል O
+3⃣ቁጥር3 O
+ብስራተ I-LOC
+ገብርኤል I-PRICE
+ላፍቶ I-LOC
+ሞል I-LOC
+መግቢያው O
+ፊት O
+ለፊት O
+የሚገኘው O
+የብስራተ I-LOC
+ገብርኤል I-PRICE
+ቤተ O
+ክርስቲያን O
+ህንፃ I-LOC
+አንደኛ O
+ፎቅ I-LOC
+ላይ O
+ደረጃ O
+እንደወጣቹ O
+በስተግራ O
+በኩል O
+ሱቅ O
+ቁጥር O
+FF-09 O
+ክቡራን O
+ደምበኞቻችን O
+ገርጂ I-LOC
+አልፎዝ O
+ፕላዛ I-LOC
+ላይ O
+አራት O
+ኪሎ O
+ቅድስት O
+ስላሴ I-LOC
+እንዲሁም O
+ብስራተ I-LOC
+ገብሬል O
+ያሉት O
+ሱቆቻችን O
+ሲመጡ O
+አስተማማኝ O
+ሰፊ O
+ፓርኪንግ O
+ያላቸው O
+መሆናቸውን O
+በታላቅ O
+ደስታ O
+እናበስራለን O
+
+
+
+
+
+
+
+2 B-PRODUCT
+in I-PRODUCT
+1 I-PRODUCT
+baby I-PRODUCT
+girl I-PRODUCT
+dress I-PRODUCT
+2200 I-PRICE
+birr I-PRICE
+0909003864 I-PHONE
+0905707448 I-PHONE
+ሊንኩን O
+በመጫን O
+ቴሌግራማችንን O
+ይቀላቀሉhttps://t.me/sinayelj O
+እቃ O
+ለማዘዝ O
+ከስር O
+ያለውን O
+ሊንኮች O
+በመጫን O
+ማዘዝ O
+ትችላላቹ O
+@sinasinaye O
+https://t.me/sinayelj2 O
+አድራሻ O
+1⃣ቁጥር1 O
+ገርጂ I-LOC
+ኢምፔሪያል I-LOC
+ከሳሚ O
+ህንፃ I-LOC
+ጎን O
+አልፎዝ O
+ፕላዛ I-LOC
+ግራውንድ O
+ላይ O
+እንደገቡ O
+ያገኙናል O
+2⃣ቁጥር2 O
+4ኪሎ I-LOC
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ማለትም O
+ከብልፅግና O
+ዋናፅፈት O
+ቤት O
+ህንፃ I-LOC
+በስተ O
+ቀኝ O
+ባለው O
+አስፓልት O
+20ሜትር O
+ዝቅ O
+እንዳሉ O
+ሀበሻ O
+ኮፊ O
+የሚገኝበት O
+ቀይ O
+ሸክላ O
+ህንፃ I-LOC
+2ተኛ O
+ፎቅ I-LOC
+ላይ O
+ያገኙናል O
+3⃣ቁጥር3 O
+ብስራተ I-LOC
+ገብርኤል I-PRICE
+ላፍቶ I-LOC
+ሞል I-LOC
+መግቢያው O
+ፊት O
+ለፊት O
+የሚገኘው O
+የብስራተ I-LOC
+ገብርኤል I-PRICE
+ቤተ O
+ክርስቲያን O
+ህንፃ I-LOC
+አንደኛ O
+ፎቅ I-LOC
+ላይ O
+ደረጃ O
+እንደወጣቹ O
+በስተግራ O
+በኩል O
+ሱቅ O
+ቁጥር O
+FF-09 O
+ክቡራን O
+ደምበኞቻችን O
+ገርጂ I-LOC
+አልፎዝ O
+ፕላዛ I-LOC
+ላይ O
+አራት O
+ኪሎ O
+ቅድስት O
+ስላሴ I-LOC
+እንዲሁም O
+ብስራተ I-LOC
+ገብሬል O
+ያሉት O
+ሱቆቻችን O
+ሲመጡ O
+አስተማማኝ O
+ሰፊ O
+ፓርኪንግ O
+ያላቸው O
+መሆናቸውን O
+በታላቅ O
+ደስታ O
+እናበስራለን O
+
+
+
+
 
 High B-PRODUCT
 quality I-PRODUCT
@@ -19825,6 +20901,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 High B-PRODUCT
 quality I-PRODUCT
 gown I-PRODUCT
@@ -19933,6 +21013,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 High B-PRODUCT
 quality I-PRODUCT
@@ -20047,6 +21131,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 High B-PRODUCT
 quality I-PRODUCT
 3 I-PRODUCT
@@ -20160,6 +21250,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 High B-PRODUCT
 quality I-PRODUCT
 gown I-PRODUCT
@@ -20269,6 +21365,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 High B-PRODUCT
 quality I-PRODUCT
@@ -20384,6 +21484,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Londony B-PRODUCT
 brand I-PRODUCT
@@ -20733,6 +21837,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 100% B-PRODUCT
 cotton I-PRODUCT
 quality O
@@ -20850,6 +21958,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 የልጆቻችንን B-PRODUCT
 የምግብ I-PRODUCT
@@ -21080,6 +22194,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 6 B-PRODUCT
 pcs I-PRODUCT
 Baby I-PRODUCT
@@ -21204,6 +22324,18 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
 
 Formula B-PRODUCT
 Racing I-PRODUCT
@@ -21384,6 +22516,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Philips B-PRODUCT
 Basketball I-PRODUCT
 Game I-PRODUCT
@@ -21511,6 +22647,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Basketball B-PRODUCT
 Play I-PRODUCT
 Set I-PRODUCT
@@ -21616,6 +22756,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Baby B-PRODUCT
 Montessori I-PRODUCT
@@ -21737,6 +22883,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Standing B-PRODUCT
 mosquito I-PRODUCT
 net I-PRODUCT
@@ -21855,6 +23005,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Standing B-PRODUCT
 mosquito I-PRODUCT
@@ -21996,6 +23152,20 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Newborn B-PRODUCT
 Lounger I-PRODUCT
 Baby I-PRODUCT
@@ -22114,6 +23284,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 Baby B-PRODUCT
 sleeping I-PRODUCT
@@ -22349,6 +23521,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 Magic B-PRODUCT
 Play I-PRODUCT
 Sand I-PRODUCT
@@ -22457,6 +23637,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 ረጅም B-PRODUCT
 የአራስ I-PRODUCT
@@ -22583,6 +23767,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 13 B-PRODUCT
 pec I-PRODUCT
@@ -22805,6 +23991,8 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 Baby B-PRODUCT
 bath I-PRODUCT
 mat I-PRODUCT
@@ -22911,6 +24099,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 650 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -23013,6 +24211,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 ልጆች B-PRODUCT
 ሲወድቁ I-PRODUCT
@@ -23125,6 +24325,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Baby B-PRODUCT
 Portable I-PRODUCT
@@ -23473,6 +24679,20 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Spoon B-PRODUCT
 220 I-PRICE
 birr I-PRICE
@@ -23579,6 +24799,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 korean B-PRODUCT
 bath I-PRODUCT
@@ -23687,6 +24909,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 330 B-PRODUCT
 birr I-PRODUCT
@@ -23894,6 +25120,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 300 B-PRODUCT
 ብር I-PRODUCT
 0909003864 I-PRODUCT
@@ -23997,6 +25229,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 150 B-PRODUCT
 ብር I-PRODUCT
 0909003864 I-PRODUCT
@@ -24099,6 +25337,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 እጅጌ B-PRODUCT
 ሙሉ I-PRODUCT
@@ -24204,6 +25450,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 350 B-PRODUCT
 birr I-PRODUCT
@@ -24524,6 +25774,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 የልጆች B-PRODUCT
 ባለፒያኖ I-PRODUCT
 መቦረቂያ I-PRODUCT
@@ -24662,6 +25916,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 bath I-PRODUCT
 toys I-PRODUCT
@@ -24767,6 +26029,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 ባለ B-PRODUCT
 3 I-PRODUCT
@@ -24980,6 +26248,20 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ስካርፕ B-PRODUCT
 እና I-PRODUCT
 ኮፍያ I-PRODUCT
@@ -25087,6 +26369,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Visen B-PRODUCT
 Premium I-PRODUCT
@@ -25217,6 +26507,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Spill-Proof B-PRODUCT
 Magic I-PRODUCT
@@ -25494,6 +26792,16 @@ https://t.me/sinayelj2 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 2 B-PRODUCT
 in I-PRODUCT
 1 I-PRODUCT
@@ -25628,6 +26936,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 Multi B-PRODUCT
 functional I-PRODUCT
 2 I-PRODUCT
@@ -25738,6 +27056,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 Kids B-PRODUCT
 potty I-PRODUCT
 2900 I-PRODUCT
@@ -25842,6 +27170,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Anti B-PRODUCT
 slip I-PRODUCT
@@ -25950,112 +27282,9 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-Anti B-PRODUCT
-slip I-PRODUCT
-kids I-PRODUCT
-shoes I-PRODUCT
-700 I-PRICE
-birr I-PRICE
-0909003864 I-PHONE
-0905707448 I-PHONE
-እቃ O
-ለማዘዝ O
-ከስር O
-ያለውን O
-ሊንኮች O
-በመጫን O
-ማዘዝ O
-ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
-አድራሻ O
-1⃣ቁጥር1 O
-ገርጂ I-LOC
-ኢምፔሪያል I-LOC
-ከሳሚ O
-ህንፃ I-LOC
-ጎን O
-አልፎዝ O
-ፕላዛ I-LOC
-ግራውንድ O
-ላይ O
-እንደገቡ O
-ያገኙናል O
-2⃣ቁጥር2 O
-4ኪሎ I-LOC
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ማለትም O
-ከብልፅግና O
-ዋናፅፈት O
-ቤት O
-ህንፃ I-LOC
-በስተ O
-ቀኝ O
-ባለው O
-አስፓልት O
-20ሜትር O
-ዝቅ O
-እንዳሉ O
-ሀበሻ O
-ኮፊ O
-የሚገኝበት O
-ቀይ O
-ሸክላ O
-ህንፃ I-LOC
-2ተኛ O
-ፎቅ I-LOC
-ላይ O
-ያገኙናል O
-3⃣ቁጥር3 O
-ብስራተ I-LOC
-ገብርኤል I-PRICE
-ላፍቶ I-LOC
-ሞል I-LOC
-መግቢያው O
-ፊት O
-ለፊት O
-የሚገኘው O
-የብስራተ I-LOC
-ገብርኤል I-PRICE
-ቤተ O
-ክርስቲያን O
-ህንፃ I-LOC
-አንደኛ O
-ፎቅ I-LOC
-ላይ O
-ደረጃ O
-እንደወጣቹ O
-በስተግራ O
-በኩል O
-ሱቅ O
-ቁጥር O
-FF-09 O
-ክቡራን O
-ደምበኞቻችን O
-ገርጂ I-LOC
-አልፎዝ O
-ፕላዛ I-LOC
-ላይ O
-አራት O
-ኪሎ O
-ቅድስት O
-ስላሴ I-LOC
-እንዲሁም O
-ብስራተ I-LOC
-ገብሬል O
-ያሉት O
-ሱቆቻችን O
-ሲመጡ O
-አስተማማኝ O
-ሰፊ O
-ፓርኪንግ O
-ያላቸው O
-መሆናቸውን O
-በታላቅ O
-ደስታ O
-እናበስራለን O
+
+
+
 
 Anti B-PRODUCT
 slip I-PRODUCT
@@ -26163,6 +27392,131 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anti B-PRODUCT
+slip I-PRODUCT
+kids I-PRODUCT
+shoes I-PRODUCT
+700 I-PRICE
+birr I-PRICE
+0909003864 I-PHONE
+0905707448 I-PHONE
+እቃ O
+ለማዘዝ O
+ከስር O
+ያለውን O
+ሊንኮች O
+በመጫን O
+ማዘዝ O
+ትችላላቹ O
+@sinasinaye O
+@sinayalj2 O
+አድራሻ O
+1⃣ቁጥር1 O
+ገርጂ I-LOC
+ኢምፔሪያል I-LOC
+ከሳሚ O
+ህንፃ I-LOC
+ጎን O
+አልፎዝ O
+ፕላዛ I-LOC
+ግራውንድ O
+ላይ O
+እንደገቡ O
+ያገኙናል O
+2⃣ቁጥር2 O
+4ኪሎ I-LOC
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ማለትም O
+ከብልፅግና O
+ዋናፅፈት O
+ቤት O
+ህንፃ I-LOC
+በስተ O
+ቀኝ O
+ባለው O
+አስፓልት O
+20ሜትር O
+ዝቅ O
+እንዳሉ O
+ሀበሻ O
+ኮፊ O
+የሚገኝበት O
+ቀይ O
+ሸክላ O
+ህንፃ I-LOC
+2ተኛ O
+ፎቅ I-LOC
+ላይ O
+ያገኙናል O
+3⃣ቁጥር3 O
+ብስራተ I-LOC
+ገብርኤል I-PRICE
+ላፍቶ I-LOC
+ሞል I-LOC
+መግቢያው O
+ፊት O
+ለፊት O
+የሚገኘው O
+የብስራተ I-LOC
+ገብርኤል I-PRICE
+ቤተ O
+ክርስቲያን O
+ህንፃ I-LOC
+አንደኛ O
+ፎቅ I-LOC
+ላይ O
+ደረጃ O
+እንደወጣቹ O
+በስተግራ O
+በኩል O
+ሱቅ O
+ቁጥር O
+FF-09 O
+ክቡራን O
+ደምበኞቻችን O
+ገርጂ I-LOC
+አልፎዝ O
+ፕላዛ I-LOC
+ላይ O
+አራት O
+ኪሎ O
+ቅድስት O
+ስላሴ I-LOC
+እንዲሁም O
+ብስራተ I-LOC
+ገብሬል O
+ያሉት O
+ሱቆቻችን O
+ሲመጡ O
+አስተማማኝ O
+ሰፊ O
+ፓርኪንግ O
+ያላቸው O
+መሆናቸውን O
+በታላቅ O
+ደስታ O
+እናበስራለን O
+
+
+
+
+
+
 
 Gadpiparty B-PRODUCT
 Blue I-PRODUCT
@@ -26310,6 +27664,10 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
 Aptamil B-PRODUCT
 UK I-PRODUCT
 Available O
@@ -26392,6 +27750,16 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Similac B-PRODUCT
 360 I-PRODUCT
@@ -26523,6 +27891,18 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
 
 Potty B-PRODUCT
 Training I-PRODUCT
@@ -26677,6 +28057,18 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
 Potty B-PRODUCT
 Training I-PRODUCT
 Seat I-PRODUCT
@@ -26830,6 +28222,18 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
 Pucket B-PRODUCT
 board I-PRODUCT
 game I-PRODUCT
@@ -26955,6 +28359,20 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 mosquito I-PRODUCT
 net I-PRODUCT
@@ -27060,6 +28478,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Nasal B-PRODUCT
 aspirator I-PRODUCT
@@ -27170,6 +28592,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 C8 B-PRODUCT
 baby I-PRODUCT
@@ -27288,6 +28718,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 EXPRESS B-PRODUCT
 ELECTRICTRACK I-PRODUCT
 TRAIN I-PRODUCT
@@ -27393,6 +28831,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Domino B-PRODUCT
 Train I-PRODUCT
@@ -27524,6 +28972,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Basketball B-PRODUCT
 Play I-PRODUCT
@@ -27692,6 +29146,8 @@ FF-09 O
 ትህትና O
 ነው O
 
+
+
 ጠንካራ B-PRODUCT
 ስቴንለስ I-PRODUCT
 ስቲል I-PRODUCT
@@ -27807,6 +29263,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 COTTONBEBE B-PRODUCT
 Silicone I-PRODUCT
@@ -28047,6 +29513,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Racing B-PRODUCT
 Car I-PRODUCT
@@ -28297,6 +29771,10 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
 Intellegent B-PRODUCT
 electrical I-PRODUCT
 double I-PRODUCT
@@ -28426,6 +29904,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Only B-PRODUCT
 Baby I-PRODUCT
 Natural I-PRODUCT
@@ -28541,6 +30023,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 BOMA B-PRODUCT
 4 I-PRODUCT
@@ -28676,6 +30164,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 600 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -28779,6 +30271,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 ልጆቼ B-PRODUCT
 በምን I-PRODUCT
 ይዝናኑ I-PRODUCT
@@ -28809,6 +30307,10 @@ FF-09 O
 birr I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
 
 6 B-PRODUCT
 pcs I-PRODUCT
@@ -28942,6 +30444,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 ዳይፐር B-PRODUCT
 መቀየሪያ I-PRODUCT
 ምንጣፍ I-PRODUCT
@@ -29055,6 +30561,18 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
 የህፃት B-PRODUCT
 የፀጉር I-PRODUCT
 ጌጥ I-PRODUCT
@@ -29160,6 +30678,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 300 B-PRODUCT
 birr I-PRODUCT
@@ -29283,6 +30805,16 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
+
+
 
 Kids B-PRODUCT
 sofa I-PRODUCT
@@ -29409,6 +30941,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 Kids B-PRODUCT
 sofa I-PRODUCT
 4400 I-PRODUCT
@@ -29516,6 +31056,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 Kids B-PRODUCT
 sofa I-PRODUCT
 4000 I-PRICE
@@ -29622,6 +31168,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Kids B-PRODUCT
 Scooter I-PRODUCT
@@ -29739,6 +31293,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Kids B-PRODUCT
 Electric I-PRODUCT
@@ -29859,6 +31421,26 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Mama B-PRODUCT
 love I-PRODUCT
@@ -29999,6 +31581,8 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 Baby B-PRODUCT
 bed I-PRODUCT
 bell I-PRODUCT
@@ -30108,6 +31692,22 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 infant B-PRODUCT
 to I-PRODUCT
@@ -30224,6 +31824,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Baby B-PRODUCT
 jump I-PRODUCT
 suit I-PRODUCT
@@ -30314,6 +31918,12 @@ suit I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Baby B-PRODUCT
 romper I-PRODUCT
@@ -30434,6 +32044,10 @@ in O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 New B-PRODUCT
 born I-PRODUCT
 baby I-PRODUCT
@@ -30545,6 +32159,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 ወፍራሙ B-PRODUCT
 1700 I-PRODUCT
@@ -30660,6 +32282,18 @@ in O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -30836,6 +32470,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 የልጆች B-PRODUCT
 ቴንት I-PRODUCT
 ድንዃን I-PRODUCT
@@ -30947,6 +32589,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Mini B-PRODUCT
 baby I-PRODUCT
@@ -31093,6 +32745,18 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
 
 2in B-PRODUCT
 1Baby I-PRODUCT
@@ -31260,6 +32924,20 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ingenuity B-PRODUCT
 Monlight I-PRODUCT
@@ -31452,6 +33130,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Baby B-PRODUCT
 stroller I-PRODUCT
@@ -31711,6 +33395,24 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Kids B-PRODUCT
 mat I-PRODUCT
 በሁለት I-PRODUCT
@@ -31824,6 +33526,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 ልጆቼ B-PRODUCT
 በምን I-PRODUCT
@@ -31948,6 +33652,10 @@ FF-09 O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
 Oreo B-PRODUCT
 teether I-PRODUCT
 400 I-PRICE
@@ -32052,6 +33760,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 3 B-PRODUCT
 in I-PRODUCT
@@ -32161,6 +33877,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Basketball B-PRODUCT
 Play I-PRODUCT
 Set I-PRODUCT
@@ -32266,6 +33986,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 trolly B-PRODUCT
 suitcase I-PRODUCT
@@ -32373,6 +34099,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 ልጆች B-PRODUCT
 ዳዴ I-PRODUCT
@@ -32509,6 +34243,20 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kidilo B-PRODUCT
 brand I-PRODUCT
@@ -32756,6 +34504,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 100% B-PRODUCT
 ኮተን I-PRODUCT
 ኮፍያ I-PRODUCT
@@ -32906,6 +34660,16 @@ FF-09 O
 መልካም I-PRODUCT
 በዓል!!! I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 car I-PRODUCT
 seat I-PRODUCT
@@ -33013,6 +34777,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 ታላቅ B-PRODUCT
 ቅናሽ I-PRODUCT
@@ -33152,6 +34922,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 COTTONBEBE B-PRODUCT
 Silicone I-PRODUCT
@@ -33300,6 +35076,8 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
 ባለ B-PRODUCT
 ኩርሲ I-PRODUCT
 ማዘያ I-PRODUCT
@@ -33415,6 +35193,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 girl I-PRODUCT
 beauty I-PRODUCT
@@ -33524,6 +35310,28 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Cool B-PRODUCT
 baby I-PRODUCT
@@ -33667,6 +35475,22 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Pano B-PRODUCT
 babe I-PRODUCT
@@ -33894,6 +35718,14 @@ FF-09 O
 መልካም O
 በዓል! O
 
+
+
+
+
+
+
+
+
 ልጆቼ B-PRODUCT
 በምን I-PRODUCT
 ይዝናኑ I-PRODUCT
@@ -34022,6 +35854,10 @@ FF-09 O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
 6 B-PRODUCT
 pcs I-PRODUCT
 gift I-PRODUCT
@@ -34128,6 +35964,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 ለኮንዶሚኒየም B-PRODUCT
 ለጠባብ I-PRODUCT
@@ -34266,6 +36106,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 ለስላሳ B-PRODUCT
 እና I-PRODUCT
@@ -34504,6 +36348,12 @@ FF-09 O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
 Baby B-PRODUCT
 stroller I-PRODUCT
 ቦታ O
@@ -34658,6 +36508,18 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
 
 MINI B-PRODUCT
 Foldable I-PRODUCT
@@ -34818,6 +36680,22 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 በጣም B-PRODUCT
 ኮምፎርተብል I-PRODUCT
 ምቹ I-PRODUCT
@@ -34949,6 +36827,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 650 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -35051,6 +36939,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 ልጆች B-PRODUCT
 ሲወድቁ I-PRODUCT
@@ -35183,6 +37073,20 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Bubble B-PRODUCT
 gun I-PRODUCT
@@ -35420,6 +37324,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 Parking B-PRODUCT
 lot I-PRODUCT
 blocking I-PRODUCT
@@ -35526,6 +37436,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 የልጆችን B-PRODUCT
 ሙቀት I-PRODUCT
@@ -35635,6 +37549,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 5 B-PRODUCT
 in I-PRODUCT
 1 I-PRODUCT
@@ -35742,6 +37666,22 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A B-PRODUCT
 B I-PRODUCT
@@ -36028,6 +37968,14 @@ FF-09 O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
 New B-PRODUCT
 Arrivals I-PRODUCT
 3in1 O
@@ -36136,6 +38084,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
@@ -36284,6 +38238,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 በድጋሚ B-PRODUCT
 ውስን I-PRODUCT
 ፍሬ I-PRODUCT
@@ -36409,6 +38371,22 @@ in O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -36578,6 +38556,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 የልጆች B-PRODUCT
 አልጋ I-PRODUCT
 ገና I-PRODUCT
@@ -36735,6 +38719,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Kids B-PRODUCT
 hair I-PRODUCT
 towel I-PRODUCT
@@ -36860,6 +38848,12 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
 
 New B-PRODUCT
 born I-PRODUCT
@@ -37072,6 +39066,22 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 walking I-PRODUCT
 shoes I-PRODUCT
@@ -37177,6 +39187,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Plastic B-PRODUCT
 kids I-PRODUCT
@@ -37289,6 +39305,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Dr B-PRODUCT
 Gym I-PRODUCT
@@ -37404,6 +39426,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Big B-PRODUCT
 size I-PRODUCT
@@ -37533,6 +39559,20 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Anti B-PRODUCT
 slip I-PRODUCT
@@ -37762,6 +39802,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 550 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -37864,6 +39908,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 የራሱ B-PRODUCT
 ሪሞት I-PRODUCT
@@ -37987,6 +40037,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Baby B-PRODUCT
 Soft I-PRODUCT
 Plush I-PRODUCT
@@ -38098,6 +40152,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 Spill-Proof B-PRODUCT
 Magic I-PRODUCT
 Bowl I-PRODUCT
@@ -38208,6 +40272,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Rattle B-PRODUCT
 baby I-PRODUCT
 toys I-PRODUCT
@@ -38314,6 +40382,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 1150 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -38416,6 +40490,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Kids B-PRODUCT
 sofa I-PRODUCT
@@ -38523,6 +40601,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
@@ -38665,6 +40753,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 Infant B-PRODUCT
 pillow I-PRODUCT
 650 I-PRICE
@@ -38769,6 +40863,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 LED B-PRODUCT
 light I-PRODUCT
@@ -38876,6 +40980,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 5pcs B-PRODUCT
 garber I-PRODUCT
@@ -39004,6 +41112,18 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
 
 2m B-PRODUCT
 baby I-PRODUCT
@@ -39322,6 +41442,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 DUCK B-PRODUCT
 STACKING I-PRODUCT
 RINGS I-PRODUCT
@@ -39434,6 +41564,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 Baby B-PRODUCT
 girl I-PRODUCT
@@ -39554,6 +41686,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 ባለ B-PRODUCT
 3 I-PRODUCT
 ቀዳዳ I-PRODUCT
@@ -39662,6 +41800,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 ታላቅ B-PRODUCT
 ቅናሽ I-PRODUCT
@@ -39791,6 +41937,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Walking B-PRODUCT
 shoes I-PRODUCT
 600 I-PRICE
@@ -39895,6 +42045,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Dr B-PRODUCT
 gym I-PRODUCT
@@ -40003,6 +42157,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 Baby B-PRODUCT
 Kid I-PRODUCT
@@ -40175,6 +42331,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Mesh B-PRODUCT
 cloth I-PRODUCT
@@ -40512,6 +42678,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 የተፈጨ B-PRODUCT
 ምግብ I-PRODUCT
 ማብያ I-PRODUCT
@@ -40620,6 +42796,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Spa B-PRODUCT
 gel I-PRODUCT
@@ -40832,6 +43014,8 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 Baby B-PRODUCT
 bed I-PRODUCT
 bell I-PRODUCT
@@ -40937,6 +43121,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 bath I-PRODUCT
@@ -41078,6 +43270,16 @@ FF-09 I-PRODUCT
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
+
+
+
+
 
 5 B-PRODUCT
 in I-PRODUCT
@@ -41263,6 +43465,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 5 B-PRODUCT
 in I-PRODUCT
 1 I-PRODUCT
@@ -41370,6 +43576,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 Carrier, I-PRODUCT
@@ -41488,6 +43702,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 ካሉት B-PRODUCT
 4ሳይዞች I-PRODUCT
@@ -41634,6 +43852,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Small B-PRODUCT
 size I-PRODUCT
@@ -42032,6 +44260,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 2m B-PRODUCT
 baby I-PRODUCT
 safety I-PRODUCT
@@ -42139,6 +44377,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Mashing B-PRODUCT
 bowl I-PRODUCT
@@ -42249,6 +44491,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Comfort B-PRODUCT
 harmony I-PRODUCT
@@ -42490,6 +44742,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 የልጆች B-PRODUCT
 ባለፒያኖ I-PRODUCT
 መቦረቂያ I-PRODUCT
@@ -42627,6 +44885,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Kids B-PRODUCT
 animals I-PRODUCT
@@ -43051,6 +45315,8 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 Fancy B-PRODUCT
 LED I-PRODUCT
 Lamp I-PRODUCT
@@ -43156,6 +45422,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Sippy B-PRODUCT
 cup I-PRODUCT
@@ -43270,6 +45542,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 1100 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -43475,6 +45751,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 SASAN B-PRODUCT
 100% I-PRODUCT
@@ -43593,6 +45871,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Gadpiparty B-PRODUCT
 Blue I-PRODUCT
@@ -43719,6 +46003,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Playkidz B-PRODUCT
 Toy I-PRODUCT
@@ -43958,6 +46252,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 baby B-PRODUCT
 babi I-PRODUCT
 የልጆችን O
@@ -44075,6 +46379,16 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 baby B-PRODUCT
 babi I-PRODUCT
@@ -44194,6 +46508,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 1600 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -44296,6 +46614,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Super B-PRODUCT
 baby I-PRODUCT
@@ -44425,6 +46747,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Super B-PRODUCT
 baby I-PRODUCT
 natural I-PRODUCT
@@ -44553,6 +46879,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 23,000 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -44655,6 +46985,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 የልጆች B-PRODUCT
 አልጋ I-PRODUCT
@@ -44910,6 +47244,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 450 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -45012,6 +47352,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 100 B-PRODUCT
 pcs I-PRODUCT
@@ -45153,6 +47497,8 @@ FF-09 I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
 Baby B-PRODUCT
 bath I-PRODUCT
 mat I-PRODUCT
@@ -45259,6 +47605,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 650 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -45361,6 +47717,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 ልጆች B-PRODUCT
 ሲወድቁ I-PRODUCT
@@ -45474,6 +47832,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 teether I-PRODUCT
 300 I-PRICE
@@ -45578,6 +47944,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Baby B-PRODUCT
 Portable I-PRODUCT
@@ -45926,6 +48298,20 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Spoon B-PRODUCT
 220 I-PRICE
 birr I-PRICE
@@ -46032,6 +48418,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 korean B-PRODUCT
 bath I-PRODUCT
@@ -46140,6 +48528,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 330 B-PRODUCT
 birr I-PRODUCT
@@ -46347,6 +48739,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 300 B-PRODUCT
 ብር I-PRODUCT
 0909003864 I-PRODUCT
@@ -46449,6 +48847,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 260 B-PRODUCT
 ብር I-PRODUCT
@@ -46553,6 +48953,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 150 B-PRODUCT
 ብር I-PRODUCT
 0909003864 I-PRODUCT
@@ -46655,6 +49061,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 እጅጌ B-PRODUCT
 ሙሉ I-PRODUCT
@@ -46760,6 +49174,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 350 B-PRODUCT
 birr I-PRODUCT
@@ -46970,6 +49388,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 nail I-PRODUCT
@@ -47228,6 +49654,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 finest B-PRODUCT
 baby I-PRODUCT
 30 I-PRODUCT
@@ -47338,6 +49770,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Dr B-PRODUCT
 gym I-PRODUCT
 silicone I-PRODUCT
@@ -47445,6 +49881,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 bottle I-PRODUCT
@@ -47558,6 +50002,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 250 B-PRODUCT
 birr I-PRODUCT
@@ -47779,6 +50229,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 LCD B-PRODUCT
 drawing I-PRODUCT
 tablet I-PRODUCT
@@ -47998,6 +50454,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Nursing B-PRODUCT
 cover I-PRODUCT
 ሰው O
@@ -48106,6 +50566,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Pretty B-PRODUCT
 baby I-PRODUCT
 pacifier I-PRODUCT
@@ -48211,6 +50675,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Nipple B-PRODUCT
 shield I-PRODUCT
@@ -48423,6 +50891,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 4pcs B-PRODUCT
 bottle I-PRODUCT
 brush I-PRODUCT
@@ -48528,6 +51000,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Silicone B-PRODUCT
 baby I-PRODUCT
@@ -48639,6 +51119,8 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 Teether B-PRODUCT
 glove I-PRODUCT
 300 I-PRICE
@@ -48744,6 +51226,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Fruit B-PRODUCT
 feeder I-PRODUCT
 ከፍሩት I-PRODUCT
@@ -48758,6 +51244,8 @@ feeder I-PRODUCT
 አለው I-PRODUCT
 300 I-PRICE
 birr I-PRICE
+
+
 
 Baby B-PRODUCT
 banana I-PRODUCT
@@ -48864,6 +51352,18 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
 
 10 B-PRODUCT
 pcs I-PRODUCT
@@ -49078,6 +51578,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Only B-PRODUCT
 baby I-PRODUCT
 Rattle I-PRODUCT
@@ -49290,12 +51794,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 ፒንክ B-PRODUCT
 ከለር I-PRODUCT
 አለው I-PRODUCT
 250ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
 
 13 B-PRODUCT
 pec I-PRODUCT
@@ -49410,6 +51918,8 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 High B-PRODUCT
 quality I-PRODUCT
@@ -49629,6 +52139,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 ልጆች B-PRODUCT
 ዳዴ I-PRODUCT
 ማለት I-PRODUCT
@@ -49745,6 +52261,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Safety B-PRODUCT
 lock I-PRODUCT
 300 I-PRICE
@@ -49849,6 +52369,10 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 ረጅም B-PRODUCT
 የአራስ I-PRODUCT
@@ -49973,6 +52497,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 የልጆች B-PRODUCT
 ካልሲ I-PRODUCT
 ዳዴ I-PRODUCT
@@ -50086,6 +52620,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 የነፍሰ B-PRODUCT
 ጡር I-PRODUCT
@@ -50207,6 +52747,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Newborn B-PRODUCT
 baby I-PRODUCT
 bath I-PRODUCT
@@ -50303,6 +52847,10 @@ Price: O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Duck’s B-PRODUCT
 bath I-PRODUCT
@@ -50409,6 +52957,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 ታጣቢ B-PRODUCT
 ዳይፐር I-PRODUCT
@@ -50550,6 +53104,12 @@ FF-09 O
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 እንገልፃለን I-PRODUCT
+
+
+
+
+
+
 
 Children's B-PRODUCT
 Cute I-PRODUCT
@@ -51225,6 +53785,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 Kids B-PRODUCT
 lunch I-PRODUCT
 box I-PRODUCT
@@ -51333,6 +53899,14 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 The B-PRODUCT
 happy I-PRODUCT
@@ -51617,6 +54191,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 minkissy B-PRODUCT
 Luminous I-PRODUCT
 Wand I-PRODUCT
@@ -51738,6 +54322,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 2 B-PRODUCT
 Pairs I-PRODUCT
 Baby I-PRODUCT
@@ -51855,6 +54445,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Children's B-PRODUCT
 Cute I-PRODUCT
@@ -52075,6 +54671,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 Cartoon B-PRODUCT
 Hair I-PRODUCT
 Comb I-PRODUCT
@@ -52193,6 +54797,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Handheld B-PRODUCT
 Game I-PRODUCT
@@ -52325,6 +54935,12 @@ FF-09 O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 ማንገቻ B-PRODUCT
 እና I-PRODUCT
@@ -52467,6 +55083,12 @@ FF-09 I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
 3 B-PRODUCT
 in I-PRODUCT
 1 I-PRODUCT
@@ -52603,6 +55225,18 @@ in O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
 የሚገዛ I-PRODUCT
@@ -52725,6 +55359,12 @@ in O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 ሰሀኑ B-PRODUCT
 ከመመገቢያ I-PRODUCT
@@ -52855,6 +55495,8 @@ in O
 አክብሮት I-PRODUCT
 እንገልፃለን I-PRODUCT
 
+
+
 ክቡራን B-PRODUCT
 ደምበኞቻችን I-PRODUCT
 ቁጥር3 I-PRODUCT
@@ -52924,6 +55566,12 @@ FF-09 I-PRODUCT
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
+
+
 
 Only B-PRODUCT
 baby I-PRODUCT
@@ -52947,6 +55595,14 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -53072,6 +55728,8 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 Baby B-PRODUCT
 Kid I-PRODUCT
@@ -53311,6 +55969,18 @@ delivery I-PRODUCT
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
 የሚገዛ I-PRODUCT
@@ -53416,6 +56086,20 @@ delivery I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 baby B-PRODUCT
 babi I-PRODUCT
@@ -53669,6 +56353,10 @@ birr I-PRODUCT
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Hula B-PRODUCT
 hoops I-PRODUCT
 750 I-PRICE
@@ -53774,6 +56462,16 @@ birr I-PRICE
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
 Socks B-PRODUCT
 with I-PRODUCT
 head I-PRODUCT
@@ -53852,6 +56550,22 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 baby B-PRODUCT
 babi I-PRODUCT
@@ -53942,6 +56656,12 @@ babi I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Original B-PRODUCT
 WHAL I-PRODUCT
@@ -54109,6 +56829,18 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
 COTTONBEBE B-PRODUCT
 Silicone I-PRODUCT
 Baby I-PRODUCT
@@ -54208,6 +56940,18 @@ Pink I-PRODUCT
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
 baby B-PRODUCT
 babi I-PRODUCT
 የልጆችን O
@@ -54298,6 +57042,8 @@ babi I-PRODUCT
 ደስታ O
 እናበስራለን O
 
+
+
 2 B-PRODUCT
 Layer I-PRODUCT
 lunch I-PRODUCT
@@ -54387,6 +57133,12 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Lunch B-PRODUCT
 box I-PRODUCT
@@ -54524,6 +57276,10 @@ birr I-PRICE
 መልካም B-PRODUCT
 በዓል I-PRODUCT
 
+
+
+
+
 የሽንት B-PRODUCT
 ቤት I-PRODUCT
 ማጣበቢያ I-PRODUCT
@@ -54611,6 +57367,10 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 የልጆች B-PRODUCT
 መቦረቂያ I-PRODUCT
@@ -54702,6 +57462,14 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Magic B-PRODUCT
 Play I-PRODUCT
@@ -54870,6 +57638,18 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
 Crystal B-PRODUCT
 mud I-PRODUCT
 900 I-PRICE
@@ -54957,6 +57737,12 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 1 B-PRODUCT
 ማንኪያ I-PRODUCT
 1 I-PRODUCT
@@ -55037,6 +57823,16 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 2 B-PRODUCT
 pcs I-PRODUCT
@@ -55217,6 +58013,10 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Cartoon B-PRODUCT
 baby I-PRODUCT
 teether I-PRODUCT
@@ -55306,6 +58106,10 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 ረጅም B-PRODUCT
 የአራስ I-PRODUCT
@@ -55492,6 +58296,10 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Baby B-PRODUCT
 jump I-PRODUCT
 suit I-PRODUCT
@@ -55583,85 +58391,13 @@ suit I-PRODUCT
 ደስታ O
 እናበስራለን O
 
-Walking B-PRODUCT
-shoe I-PRODUCT
-ከስር O
-ሶል O
-ያለው O
-800 I-PRICE
-birr I-PRICE
-0909003864 I-PHONE
-0905707448 I-PHONE
-አድራሻ O
-ቁጥር1 O
-ገርጂ I-LOC
-ኢምፔሪያል I-LOC
-ከሳሚ O
-ህንፃ I-LOC
-ጎን O
-አልፎዝ O
-ፕላዛ I-LOC
-ግራውንድ O
-ላይ O
-እንደገቡ O
-ያገኙናል O
-ቁጥር2 O
-4ኪሎ I-LOC
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ማለትም O
-ከብልፅግና O
-ዋናፅፈት O
-ቤት O
-ህንፃ I-LOC
-በስተ O
-ቀኝ O
-ባለው O
-አስፓልት O
-20ሜትር O
-ዝቅ O
-እንዳሉ O
-ሀበሻ O
-ኮፊ O
-የሚገኝበት O
-ቀይ O
-ሸክላ O
-ህንፃ I-LOC
-2ተኛ O
-ፎቅ I-LOC
-ላይ O
-ያገኙናል O
-ክቡራን O
-ደምበኞቻችን O
-ገርጂ I-LOC
-አልፎዝ O
-ፕላዛ I-LOC
-ላይ O
-እንዲሁም O
-አራት O
-ኪሎ O
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ላይ O
-ያሉት O
-ብራንቾቻችን O
-ላይ O
-እቃ O
-ለመግዛት O
-ሲመጡ O
-አስተማማኝ O
-ሰፊ O
-ፓርኪንግ O
-ያለው O
-ጊቢ O
-ያላቸው O
-ህንፃዎች I-LOC
-መሆናቸውን O
-በታላቅ O
-ደስታ O
-እናበስራለን O
+
+
+
+
+
+
+
 
 Walking B-PRODUCT
 shoe I-PRODUCT
@@ -55743,6 +58479,96 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+Walking B-PRODUCT
+shoe I-PRODUCT
+ከስር O
+ሶል O
+ያለው O
+800 I-PRICE
+birr I-PRICE
+0909003864 I-PHONE
+0905707448 I-PHONE
+አድራሻ O
+ቁጥር1 O
+ገርጂ I-LOC
+ኢምፔሪያል I-LOC
+ከሳሚ O
+ህንፃ I-LOC
+ጎን O
+አልፎዝ O
+ፕላዛ I-LOC
+ግራውንድ O
+ላይ O
+እንደገቡ O
+ያገኙናል O
+ቁጥር2 O
+4ኪሎ I-LOC
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ማለትም O
+ከብልፅግና O
+ዋናፅፈት O
+ቤት O
+ህንፃ I-LOC
+በስተ O
+ቀኝ O
+ባለው O
+አስፓልት O
+20ሜትር O
+ዝቅ O
+እንዳሉ O
+ሀበሻ O
+ኮፊ O
+የሚገኝበት O
+ቀይ O
+ሸክላ O
+ህንፃ I-LOC
+2ተኛ O
+ፎቅ I-LOC
+ላይ O
+ያገኙናል O
+ክቡራን O
+ደምበኞቻችን O
+ገርጂ I-LOC
+አልፎዝ O
+ፕላዛ I-LOC
+ላይ O
+እንዲሁም O
+አራት O
+ኪሎ O
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ላይ O
+ያሉት O
+ብራንቾቻችን O
+ላይ O
+እቃ O
+ለመግዛት O
+ሲመጡ O
+አስተማማኝ O
+ሰፊ O
+ፓርኪንግ O
+ያለው O
+ጊቢ O
+ያላቸው O
+ህንፃዎች I-LOC
+መሆናቸውን O
+በታላቅ O
+ደስታ O
+እናበስራለን O
+
+
+
+
+
+
+
 Walking B-PRODUCT
 shoe I-PRODUCT
 750 I-PRICE
@@ -55819,6 +58645,12 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Walking B-PRODUCT
 shoe I-PRODUCT
@@ -55899,6 +58731,14 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 Walking B-PRODUCT
 shoe I-PRODUCT
@@ -55976,6 +58816,10 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Walking B-PRODUCT
 shoe I-PRODUCT
@@ -56083,6 +58927,18 @@ birr I-PRICE
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
+
+
 Infantino B-PRODUCT
 baby I-PRODUCT
 carier I-PRODUCT
@@ -56167,6 +59023,12 @@ kg O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Multivitamin B-PRODUCT
 300g O
@@ -56261,6 +59123,10 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Aptamil B-PRODUCT
 premium+ I-PRODUCT
@@ -56464,6 +59330,16 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 Infant B-PRODUCT
 walking I-PRODUCT
 shoes I-PRODUCT
@@ -56541,6 +59417,12 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Diy B-PRODUCT
 Beads I-PRODUCT
@@ -56644,6 +59526,8 @@ Children I-PRODUCT
 ደስታ O
 እናበስራለን O
 
+
+
 1100 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -56728,6 +59612,10 @@ birr I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
@@ -56835,6 +59723,8 @@ birr I-PRODUCT
 ደስታ O
 እናበስራለን O
 
+
+
 125 B-PRODUCT
 ml I-PRODUCT
 natural I-PRODUCT
@@ -56924,6 +59814,8 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 Sippy B-PRODUCT
 cup I-PRODUCT
@@ -57015,6 +59907,8 @@ bottle I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 SANNEA B-PRODUCT
 6 I-PRODUCT
@@ -57204,6 +60098,8 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
 ባለ B-PRODUCT
 ስትሮ I-PRODUCT
 የውሃ I-PRODUCT
@@ -57296,6 +60192,12 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 ባለ B-PRODUCT
 ፓርቲሽን I-PRODUCT
 የምሳ I-PRODUCT
@@ -57387,6 +60289,12 @@ turkey O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 ባለ B-PRODUCT
 ፓርቲሽን I-PRODUCT
@@ -57483,6 +60391,12 @@ turkey I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 SANNEA B-PRODUCT
 6 I-PRODUCT
@@ -57581,6 +60495,28 @@ box I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 baby B-PRODUCT
 brand I-PRODUCT
@@ -57702,6 +60638,24 @@ DELIVERY O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 በቻርጅ B-PRODUCT
 የሚሰራ I-PRODUCT
 የልጆች I-PRODUCT
@@ -57816,6 +60770,10 @@ delivery I-PRODUCT
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 SANNEA B-PRODUCT
 6 I-PRODUCT
 in I-PRODUCT
@@ -57914,6 +60872,12 @@ box I-PRODUCT
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 CARIO B-PRODUCT
 6 I-PRODUCT
 in I-PRODUCT
@@ -58011,6 +60975,16 @@ box I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -58152,6 +61126,12 @@ delivery O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 harmonium B-PRODUCT
 የልጆች I-PRODUCT
 ባለፒያኖ I-PRODUCT
@@ -58264,6 +61244,12 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 እጅግ B-PRODUCT
 አስተማማኝ I-PRODUCT
@@ -58471,6 +61457,10 @@ set I-PRODUCT
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 ዳይፐር B-PRODUCT
 መቀየሪያ I-PRODUCT
 ምንጣፍ I-PRODUCT
@@ -58584,6 +61574,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Kids B-PRODUCT
 rain I-PRODUCT
 coat I-PRODUCT
@@ -58671,6 +61665,20 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ስካርፕ B-PRODUCT
 እና I-PRODUCT
@@ -58867,6 +61875,10 @@ bottle I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Infant B-PRODUCT
 Kids I-PRODUCT
@@ -59129,6 +62141,16 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 swaddle I-PRODUCT
 Quality O
@@ -59218,6 +62240,10 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Swaddle B-PRODUCT
 and I-PRODUCT
 hat I-PRODUCT
@@ -59305,6 +62331,12 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
@@ -59453,6 +62485,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Sunglass B-PRODUCT
 with I-PRODUCT
 mach I-PRODUCT
@@ -59532,6 +62568,12 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 Infant B-PRODUCT
 walking I-PRODUCT
 shoes I-PRODUCT
@@ -59609,6 +62651,16 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
@@ -59761,6 +62813,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 INFANT B-PRODUCT
 BABY O
 CAR O
@@ -59857,6 +62915,16 @@ delivery O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 ቁጥር B-PRODUCT
 ከ27-31 I-PRODUCT
 የክረምት I-PRODUCT
@@ -59949,6 +63017,12 @@ delivery O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 ቁጥር B-PRODUCT
 ከ26-30 I-PRODUCT
 1800 I-PRODUCT
@@ -60035,6 +63109,12 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 ቁጥር B-PRODUCT
 ከ26-30 I-PRODUCT
@@ -60124,6 +63204,10 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 ቁጥር B-PRODUCT
 ከ27-31 I-PRODUCT
@@ -60217,6 +63301,10 @@ delivery O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 ቁጥር B-PRODUCT
 ከ31-36 I-PRODUCT
 የክረምት I-PRODUCT
@@ -60307,6 +63395,8 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 ቁጥር B-PRODUCT
 ከ22-26 I-PRODUCT
@@ -60400,6 +63490,14 @@ delivery O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 ደብል B-PRODUCT
 ፌስ I-PRODUCT
 የክረምት I-PRODUCT
@@ -60489,6 +63587,8 @@ delivery O
 ደስታ O
 እናበስራለን O
 
+
+
 2500 B-PRODUCT
 ብር I-PRODUCT
 0909003864 I-PRODUCT
@@ -60573,6 +63673,8 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 3500 B-PRODUCT
 ብር I-PRODUCT
@@ -60744,6 +63846,8 @@ delivery O
 ደስታ O
 እናበስራለን O
 
+
+
 2500 B-PRODUCT
 ብር I-PRODUCT
 0909003864 I-PRODUCT
@@ -60914,6 +64018,10 @@ delivery O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 3ፒስ B-PRODUCT
 የልጆች I-PRODUCT
 ልብስ I-PRODUCT
@@ -61004,6 +64112,12 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 4ፒስ B-PRODUCT
 የልጆች I-PRODUCT
@@ -61097,90 +64211,11 @@ delivery O
 ደስታ O
 እናበስራለን O
 
-2400 B-PRODUCT
-ብር I-PRODUCT
-0909003864 I-PRODUCT
-0905707448 I-PHONE
-እቃ O
-ለማዘዝ O
-ከስር O
-ያለውን O
-ሊንኮች O
-በመጫን O
-ማዘዝ O
-ትችላላቹ O
-@sinasinaye O
-@sinayalj2 O
-አድራሻ O
-ቁጥር1 O
-ገርጂ I-LOC
-ኢምፔሪያል I-LOC
-ከሳሚ O
-ህንፃ I-LOC
-ጎን O
-አልፎዝ O
-ፕላዛ I-LOC
-ግራውንድ O
-ላይ O
-እንደገቡ O
-ያገኙናል O
-ቁጥር2 O
-4ኪሎ I-LOC
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ማለትም O
-ከብልፅግና O
-ዋናፅፈት O
-ቤት O
-ህንፃ I-LOC
-በስተ O
-ቀኝ O
-ባለው O
-አስፓልት O
-20ሜትር O
-ዝቅ O
-እንዳሉ O
-ሀበሻ O
-ኮፊ O
-የሚገኝበት O
-ቀይ O
-ሸክላ O
-ህንፃ I-LOC
-2ተኛ O
-ፎቅ I-LOC
-ላይ O
-ያገኙናል O
-ክቡራን O
-ደምበኞቻችን O
-ገርጂ I-LOC
-አልፎዝ O
-ፕላዛ I-LOC
-ላይ O
-እንዲሁም O
-አራት O
-ኪሎ O
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ላይ O
-ያሉት O
-ብራንቾቻችን O
-ላይ O
-እቃ O
-ለመግዛት O
-ሲመጡ O
-አስተማማኝ O
-ሰፊ O
-ፓርኪንግ O
-ያለው O
-ጊቢ O
-ያላቸው O
-ህንፃዎች I-LOC
-መሆናቸውን O
-በታላቅ O
-ደስታ O
-እናበስራለን O
+
+
+
+
+
 
 2400 B-PRODUCT
 ብር I-PRODUCT
@@ -61266,6 +64301,95 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+2400 B-PRODUCT
+ብር I-PRODUCT
+0909003864 I-PRODUCT
+0905707448 I-PHONE
+እቃ O
+ለማዘዝ O
+ከስር O
+ያለውን O
+ሊንኮች O
+በመጫን O
+ማዘዝ O
+ትችላላቹ O
+@sinasinaye O
+@sinayalj2 O
+አድራሻ O
+ቁጥር1 O
+ገርጂ I-LOC
+ኢምፔሪያል I-LOC
+ከሳሚ O
+ህንፃ I-LOC
+ጎን O
+አልፎዝ O
+ፕላዛ I-LOC
+ግራውንድ O
+ላይ O
+እንደገቡ O
+ያገኙናል O
+ቁጥር2 O
+4ኪሎ I-LOC
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ማለትም O
+ከብልፅግና O
+ዋናፅፈት O
+ቤት O
+ህንፃ I-LOC
+በስተ O
+ቀኝ O
+ባለው O
+አስፓልት O
+20ሜትር O
+ዝቅ O
+እንዳሉ O
+ሀበሻ O
+ኮፊ O
+የሚገኝበት O
+ቀይ O
+ሸክላ O
+ህንፃ I-LOC
+2ተኛ O
+ፎቅ I-LOC
+ላይ O
+ያገኙናል O
+ክቡራን O
+ደምበኞቻችን O
+ገርጂ I-LOC
+አልፎዝ O
+ፕላዛ I-LOC
+ላይ O
+እንዲሁም O
+አራት O
+ኪሎ O
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ላይ O
+ያሉት O
+ብራንቾቻችን O
+ላይ O
+እቃ O
+ለመግዛት O
+ሲመጡ O
+አስተማማኝ O
+ሰፊ O
+ፓርኪንግ O
+ያለው O
+ጊቢ O
+ያላቸው O
+ህንፃዎች I-LOC
+መሆናቸውን O
+በታላቅ O
+ደስታ O
+እናበስራለን O
+
+
 
 3ፒስ B-PRODUCT
 የልጆች I-PRODUCT
@@ -61358,6 +64482,10 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 4 B-PRODUCT
 ፒስ I-PRODUCT
@@ -61456,6 +64584,10 @@ delivery O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 3ፒስ B-PRODUCT
 የልጆች I-PRODUCT
 ልብስ I-PRODUCT
@@ -61547,6 +64679,14 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 3ፒስ B-PRODUCT
 የተወለዱ I-PRODUCT
@@ -61650,6 +64790,12 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 ሸሚዝ B-PRODUCT
 1700 I-PRODUCT
@@ -61826,6 +64972,8 @@ brand I-PRODUCT
 ደስታ O
 እናበስራለን O
 
+
+
 Gap B-PRODUCT
 and I-PRODUCT
 champion I-PRODUCT
@@ -61916,6 +65064,8 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 የፀጉር B-PRODUCT
 መታሻ I-PRODUCT
@@ -62099,6 +65249,12 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 100%cotton B-PRODUCT
 2pcs I-PRODUCT
 ቢጃማ I-PRODUCT
@@ -62205,6 +65361,12 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 2pcs B-PRODUCT
 ቱታ I-PRODUCT
 2000ብር I-PRODUCT
@@ -62290,6 +65452,8 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 ወፍራምኮፍያ B-PRODUCT
 ጥራቱን I-PRODUCT
@@ -62394,6 +65558,10 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 100% B-PRODUCT
 cotton I-PRODUCT
@@ -62598,91 +65766,15 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
-100% B-PRODUCT
-cotton I-PRODUCT
-quality O
-stoking O
-ጥራት O
-ደረጃውን O
-የጠበቀ O
-ልጆች O
-እንዲ O
-ዝንጥ O
-ብለው O
-እንዲታዩ O
-800ብር I-PRICE
-0905707448 I-PHONE
-0909003864 I-PHONE
-አድራሻ O
-ቁጥር1 O
-ገርጂ I-LOC
-ኢምፔሪያል I-LOC
-ከሳሚ O
-ህንፃ I-LOC
-ጎን O
-አልፎዝ O
-ፕላዛ I-LOC
-ግራውንድ O
-ላይ O
-እንደገቡ O
-ያገኙናል O
-ቁጥር2 O
-4ኪሎ I-LOC
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ማለትም O
-ከብልፅግና O
-ዋናፅፈት O
-ቤት O
-ህንፃ I-LOC
-በስተ O
-ቀኝ O
-ባለው O
-አስፓልት O
-20ሜትር O
-ዝቅ O
-እንዳሉ O
-ሀበሻ O
-ኮፊ O
-የሚገኝበት O
-ቀይ O
-ሸክላ O
-ህንፃ I-LOC
-2ተኛ O
-ፎቅ I-LOC
-ላይ O
-ያገኙናል O
-ክቡራን O
-ደምበኞቻችን O
-ገርጂ I-LOC
-አልፎዝ O
-ፕላዛ I-LOC
-ላይ O
-እንዲሁም O
-አራት O
-ኪሎ O
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ላይ O
-ያሉት O
-ብራንቾቻችን O
-ላይ O
-እቃ O
-ለመግዛት O
-ሲመጡ O
-አስተማማኝ O
-ሰፊ O
-ፓርኪንግ O
-ያለው O
-ጊቢ O
-ያላቸው O
-ህንፃዎች I-LOC
-መሆናቸውን O
-በታላቅ O
-ደስታ O
-እናበስራለን O
+
+
+
+
+
+
+
+
+
 
 100% B-PRODUCT
 cotton I-PRODUCT
@@ -62769,6 +65861,104 @@ stoking O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+100% B-PRODUCT
+cotton I-PRODUCT
+quality O
+stoking O
+ጥራት O
+ደረጃውን O
+የጠበቀ O
+ልጆች O
+እንዲ O
+ዝንጥ O
+ብለው O
+እንዲታዩ O
+800ብር I-PRICE
+0905707448 I-PHONE
+0909003864 I-PHONE
+አድራሻ O
+ቁጥር1 O
+ገርጂ I-LOC
+ኢምፔሪያል I-LOC
+ከሳሚ O
+ህንፃ I-LOC
+ጎን O
+አልፎዝ O
+ፕላዛ I-LOC
+ግራውንድ O
+ላይ O
+እንደገቡ O
+ያገኙናል O
+ቁጥር2 O
+4ኪሎ I-LOC
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ማለትም O
+ከብልፅግና O
+ዋናፅፈት O
+ቤት O
+ህንፃ I-LOC
+በስተ O
+ቀኝ O
+ባለው O
+አስፓልት O
+20ሜትር O
+ዝቅ O
+እንዳሉ O
+ሀበሻ O
+ኮፊ O
+የሚገኝበት O
+ቀይ O
+ሸክላ O
+ህንፃ I-LOC
+2ተኛ O
+ፎቅ I-LOC
+ላይ O
+ያገኙናል O
+ክቡራን O
+ደምበኞቻችን O
+ገርጂ I-LOC
+አልፎዝ O
+ፕላዛ I-LOC
+ላይ O
+እንዲሁም O
+አራት O
+ኪሎ O
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ላይ O
+ያሉት O
+ብራንቾቻችን O
+ላይ O
+እቃ O
+ለመግዛት O
+ሲመጡ O
+አስተማማኝ O
+ሰፊ O
+ፓርኪንግ O
+ያለው O
+ጊቢ O
+ያላቸው O
+ህንፃዎች I-LOC
+መሆናቸውን O
+በታላቅ O
+ደስታ O
+እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 ቬሎ B-PRODUCT
 ካልሲ I-PRODUCT
@@ -62936,6 +66126,10 @@ stoking O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Carter's B-PRODUCT
 brand I-PRODUCT
 socks I-PRODUCT
@@ -63028,6 +66222,12 @@ birr I-PRICE
 እናበስራለን O
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
 
 ወፍራምኮፍያ B-PRODUCT
 ጥራቱን I-PRODUCT
@@ -63132,6 +66332,12 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 ወፍራም B-PRODUCT
 ጥራቱን I-PRODUCT
@@ -63341,6 +66547,10 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 ወፍራም B-PRODUCT
 100% I-PRODUCT
 ኮተን I-PRODUCT
@@ -63448,6 +66658,8 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
 3 B-PRODUCT
 ፒስ I-PRODUCT
 ኮፍያ O
@@ -63457,6 +66669,10 @@ birr I-PRICE
 ብር I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
 
 High B-PRODUCT
 quality I-PRODUCT
@@ -63542,6 +66758,10 @@ bag I-PRODUCT
 እናበስራለን O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 ረጅም B-PRODUCT
 ምቹ I-PRODUCT
@@ -63642,6 +66862,12 @@ bag I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 HUDSON B-PRODUCT
 BABY I-PRODUCT
@@ -63831,6 +67057,10 @@ turkey O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Cute B-PRODUCT
 baby I-PRODUCT
 እጅጌ I-PRODUCT
@@ -63914,6 +67144,12 @@ baby I-PRODUCT
 እናበስራለን O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 ኳሊቲ B-PRODUCT
 እጅጌ I-PRODUCT
@@ -64002,6 +67238,8 @@ baby I-PRODUCT
 እናበስራለን O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 Baby B-PRODUCT
 girl I-PRODUCT
@@ -64093,6 +67331,16 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 ኳሊቲ B-PRODUCT
 እጅጌ I-PRODUCT
 ሙሉ I-PRODUCT
@@ -64179,6 +67427,10 @@ birr I-PRICE
 እናበስራለን O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 LOONEY B-PRODUCT
 TOONES I-PRODUCT
@@ -64267,6 +67519,10 @@ brand I-PRODUCT
 እናበስራለን O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 High B-PRODUCT
 quality I-PRODUCT
@@ -64362,6 +67618,10 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Kids B-PRODUCT
 toy I-PRODUCT
 700 I-PRICE
@@ -64448,6 +67708,12 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 Folding B-PRODUCT
 stoo I-PRODUCT
@@ -64539,6 +67805,8 @@ stoo I-PRODUCT
 ደስታ O
 እናበስራለን O
 
+
+
 Boy B-PRODUCT
 and I-PRODUCT
 girl I-PRODUCT
@@ -64628,6 +67896,8 @@ dolls I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 nip B-PRODUCT
 MADE O
@@ -64720,6 +67990,12 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
 
 nip B-PRODUCT
 bottle I-PRODUCT
@@ -64994,6 +68270,10 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Aptamil B-PRODUCT
 UK I-PRODUCT
 Available O
@@ -65134,6 +68414,14 @@ birr I-PRICE
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
 ለክረምቱ B-PRODUCT
 ተስማሚ I-PRODUCT
 ወፍራም I-PRODUCT
@@ -65215,6 +68503,16 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 ለክረምቱ B-PRODUCT
 ተስማሚ I-PRODUCT
@@ -65298,6 +68596,14 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 ለክረምቱ B-PRODUCT
 ተስማሚ I-PRODUCT
 ወፍራም I-PRODUCT
@@ -65380,6 +68686,16 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 8 B-PRODUCT
 pcs I-PRODUCT
 የልጆች I-PRODUCT
@@ -65458,6 +68774,8 @@ pcs I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
 
 AVEHNI B-PRODUCT
 natural I-PRODUCT
@@ -65557,6 +68875,10 @@ feeder I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -65751,6 +69073,8 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
 ባለ B-PRODUCT
 ኩርሲ I-PRODUCT
 ማዘያ I-PRODUCT
@@ -65842,6 +69166,10 @@ delivery I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 New B-PRODUCT
 arival I-PRODUCT
@@ -66002,6 +69330,16 @@ delivery O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 Atouch B-PRODUCT
 KT3 I-PRODUCT
 5G I-PRODUCT
@@ -66090,6 +69428,18 @@ delivery O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
+
+
+
+
 IVOLIA B-PRODUCT
 high I-PRODUCT
 chair I-PRODUCT
@@ -66126,6 +69476,20 @@ DELIVERY O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 high I-PRODUCT
@@ -66166,6 +69530,22 @@ DELIVERY O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 2 B-PRODUCT
 in I-PRODUCT
@@ -66329,6 +69709,8 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
 ኳሊቲ B-PRODUCT
 ኮተን I-PRODUCT
 የአራስ I-PRODUCT
@@ -66407,6 +69789,10 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 baby B-PRODUCT
 girl I-PRODUCT
@@ -66564,6 +69950,12 @@ birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
 Swing B-PRODUCT
 ጊቢ O
 ላይ O
@@ -66648,6 +70040,20 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 romper I-PRODUCT
@@ -66780,6 +70186,12 @@ delivery O
 ጠቐሚ I-PRODUCT
 ቪዲዮ I-PRODUCT
 
+
+
+
+
+
+
 Clay B-PRODUCT
 dough I-PRODUCT
 24pcs I-PRODUCT
@@ -66856,6 +70268,10 @@ dough I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 Kids B-PRODUCT
 sofa I-PRODUCT
@@ -66973,6 +70389,8 @@ delivery O
 ደስታ I-PRODUCT
 ነው I-PRODUCT
 
+
+
 Bloom B-PRODUCT
 baby I-PRODUCT
 BABY I-PRODUCT
@@ -67054,6 +70472,16 @@ BATHER I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 1400birr B-PRODUCT
 0909003864 I-PHONE
@@ -67164,6 +70592,10 @@ in O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Intellegent B-PRODUCT
 electrical I-PRODUCT
 Breast I-PRODUCT
@@ -67258,82 +70690,9 @@ delivery O
 ደስታ O
 እናበስራለን O
 
-Walking B-PRODUCT
-shoe I-PRODUCT
-650 I-PRICE
-birr I-PRICE
-0909003864 I-PHONE
-0905707448 I-PHONE
-አድራሻ O
-ቁጥር1 O
-ገርጂ I-LOC
-ኢምፔሪያል I-LOC
-ከሳሚ O
-ህንፃ I-LOC
-ጎን O
-አልፎዝ O
-ፕላዛ I-LOC
-ግራውንድ O
-ላይ O
-እንደገቡ O
-ያገኙናል O
-ቁጥር2 O
-4ኪሎ I-LOC
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ማለትም O
-ከብልፅግና O
-ዋናፅፈት O
-ቤት O
-ህንፃ I-LOC
-በስተ O
-ቀኝ O
-ባለው O
-አስፓልት O
-20ሜትር O
-ዝቅ O
-እንዳሉ O
-ሀበሻ O
-ኮፊ O
-የሚገኝበት O
-ቀይ O
-ሸክላ O
-ህንፃ I-LOC
-2ተኛ O
-ፎቅ I-LOC
-ላይ O
-ያገኙናል O
-ክቡራን O
-ደምበኞቻችን O
-ገርጂ I-LOC
-አልፎዝ O
-ፕላዛ I-LOC
-ላይ O
-እንዲሁም O
-አራት O
-ኪሎ O
-ቅድስት O
-ስላሴ I-LOC
-ህንፃ I-LOC
-ላይ O
-ያሉት O
-ብራንቾቻችን O
-ላይ O
-እቃ O
-ለመግዛት O
-ሲመጡ O
-አስተማማኝ O
-ሰፊ O
-ፓርኪንግ O
-ያለው O
-ጊቢ O
-ያላቸው O
-ህንፃዎች I-LOC
-መሆናቸውን O
-በታላቅ O
-ደስታ O
-እናበስራለን O
+
+
+
 
 Walking B-PRODUCT
 shoe I-PRODUCT
@@ -67412,6 +70771,10 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Walking B-PRODUCT
 shoe I-PRODUCT
 650 I-PRICE
@@ -67488,6 +70851,93 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+Walking B-PRODUCT
+shoe I-PRODUCT
+650 I-PRICE
+birr I-PRICE
+0909003864 I-PHONE
+0905707448 I-PHONE
+አድራሻ O
+ቁጥር1 O
+ገርጂ I-LOC
+ኢምፔሪያል I-LOC
+ከሳሚ O
+ህንፃ I-LOC
+ጎን O
+አልፎዝ O
+ፕላዛ I-LOC
+ግራውንድ O
+ላይ O
+እንደገቡ O
+ያገኙናል O
+ቁጥር2 O
+4ኪሎ I-LOC
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ማለትም O
+ከብልፅግና O
+ዋናፅፈት O
+ቤት O
+ህንፃ I-LOC
+በስተ O
+ቀኝ O
+ባለው O
+አስፓልት O
+20ሜትር O
+ዝቅ O
+እንዳሉ O
+ሀበሻ O
+ኮፊ O
+የሚገኝበት O
+ቀይ O
+ሸክላ O
+ህንፃ I-LOC
+2ተኛ O
+ፎቅ I-LOC
+ላይ O
+ያገኙናል O
+ክቡራን O
+ደምበኞቻችን O
+ገርጂ I-LOC
+አልፎዝ O
+ፕላዛ I-LOC
+ላይ O
+እንዲሁም O
+አራት O
+ኪሎ O
+ቅድስት O
+ስላሴ I-LOC
+ህንፃ I-LOC
+ላይ O
+ያሉት O
+ብራንቾቻችን O
+ላይ O
+እቃ O
+ለመግዛት O
+ሲመጡ O
+አስተማማኝ O
+ሰፊ O
+ፓርኪንግ O
+ያለው O
+ጊቢ O
+ያላቸው O
+ህንፃዎች I-LOC
+መሆናቸውን O
+በታላቅ O
+ደስታ O
+እናበስራለን O
+
+
+
+
+
+
 
 የልጆች B-PRODUCT
 ሰሀት I-PRODUCT
@@ -67565,6 +71015,10 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
 
 5pcs B-PRODUCT
 garber I-PRODUCT
@@ -67665,6 +71119,8 @@ pcs O
 እናበስራለን O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 3pcs B-PRODUCT
 ቱታ I-PRODUCT
@@ -67833,6 +71289,12 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 500 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PRODUCT
@@ -67985,6 +71447,16 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Comfort B-PRODUCT
 harmony I-PRODUCT
@@ -68190,6 +71662,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 Infant B-PRODUCT
 walking I-PRODUCT
 shoes I-PRODUCT
@@ -68267,6 +71745,16 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 Socks B-PRODUCT
 with I-PRODUCT
@@ -68346,6 +71834,14 @@ birr I-PRICE
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 2 B-PRODUCT
 pcs I-PRODUCT
@@ -68428,6 +71924,14 @@ pcs I-PRODUCT
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -68553,6 +72057,16 @@ delivery O
 በታላቅ O
 ደስታ O
 እናበስራለን O
+
+
+
+
+
+
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -68684,6 +72198,8 @@ delivery O
 ደስታ O
 እናበስራለን O
 
+
+
 ክቡራን B-PRODUCT
 ደምበኞቻችን I-PRODUCT
 ቁጥር2 I-PRODUCT
@@ -68799,6 +72315,10 @@ delivery O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
 የልጆች B-PRODUCT
 ለብርድ I-PRODUCT
 ጊዜ I-PRODUCT
@@ -68820,6 +72340,18 @@ delivery O
 ላይ I-PRODUCT
 እንደገቡ I-PRODUCT
 ያገኙናል I-PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ford B-PRODUCT
 car I-PRODUCT
@@ -68973,6 +72505,16 @@ delivery O
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
 Atouch B-PRODUCT
 KT3 I-PRODUCT
 5G I-PRODUCT
@@ -69061,6 +72603,10 @@ delivery O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
 Hair B-PRODUCT
 tie I-PRODUCT
 450 I-PRICE
@@ -69101,6 +72647,10 @@ for O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
 Only B-PRODUCT
 baby I-PRODUCT
 2 I-PRODUCT
@@ -69123,6 +72673,10 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 10 B-PRODUCT
 pcs I-PRODUCT
@@ -69149,6 +72703,8 @@ birr I-PRICE
 ያገኙናል O
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
 
 Blanket B-PRODUCT
 swaddle I-PRODUCT
@@ -69188,6 +72744,10 @@ birr I-PRICE
 በታላቅ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
+
+
 
 Baby B-PRODUCT
 garden I-PRODUCT
@@ -69241,6 +72801,12 @@ brand I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
 Only B-PRODUCT
 baby I-PRODUCT
 feeding I-PRODUCT
@@ -69263,6 +72829,10 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 Brand B-PRODUCT
 POLO I-PRODUCT
@@ -69301,6 +72871,8 @@ D.D.W I-PRODUCT
 እንደገቡ O
 ያገኙናል O
 
+
+
 Brand B-PRODUCT
 DOLCE I-PRODUCT
 & I-PRODUCT
@@ -69313,6 +72885,8 @@ GABBANA I-PRODUCT
 ቁጥር I-PRODUCT
 2300 I-PRODUCT
 ብር I-PRODUCT
+
+
 
 Brand B-PRODUCT
 beer I-PRODUCT
@@ -69333,6 +72907,10 @@ birr I-PRICE
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
 Brand B-PRODUCT
 beer I-PRODUCT
 1750 I-PRICE
@@ -69351,6 +72929,10 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 Brand B-PRODUCT
 beer I-PRODUCT
@@ -69371,6 +72953,12 @@ birr I-PRICE
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
 Brand B-PRODUCT
 beer I-PRODUCT
 2000 I-PRICE
@@ -69389,6 +72977,10 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 Newborn B-PRODUCT
 baby I-PRODUCT
@@ -69411,6 +73003,8 @@ bibs I-PRODUCT
 እንደገቡ O
 ያገኙናል O
 
+
+
 ዩኒኮርን B-PRODUCT
 ዲዛይን I-PRODUCT
 የማያቀዘቅዝ I-PRODUCT
@@ -69425,6 +73019,12 @@ bibs I-PRODUCT
 ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
 
 ታላቅ B-PRODUCT
 ቅናሽ I-PRODUCT
@@ -69451,6 +73051,8 @@ date O
 ብር I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
 
 Plush B-PRODUCT
 toy I-PRODUCT
@@ -69514,6 +73116,18 @@ for O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
+
+
+
+
 Flying B-PRODUCT
 spinner I-PRODUCT
 900 I-PRICE
@@ -69537,6 +73151,10 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 Kids B-PRODUCT
 shoe I-PRODUCT
@@ -69577,11 +73195,15 @@ birr I-PRODUCT
 እንደገቡ I-PRODUCT
 ያገኙናል I-PRODUCT
 
+
+
 350 B-PRODUCT
 birr I-PRODUCT
 
 400 B-PRODUCT
 birr I-PRODUCT
+
+
 
 400 B-PRODUCT
 birr I-PRODUCT
@@ -69606,6 +73228,10 @@ birr I-PRODUCT
 
 500 B-PRODUCT
 birr I-PRODUCT
+
+
+
+
 
 Magic B-PRODUCT
 blanket I-PRODUCT
@@ -69634,6 +73260,16 @@ dark I-PRODUCT
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
+
+
 
 3 B-PRODUCT
 in I-PRODUCT
@@ -69709,6 +73345,8 @@ pcs I-PRODUCT
 እንደገቡ I-PRODUCT
 ያገኙናል I-PRODUCT
 
+
+
 950 B-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
@@ -69725,6 +73363,16 @@ birr I-PRODUCT
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
+
+
 
 850 B-PRODUCT
 birr I-PRODUCT
@@ -69763,6 +73411,10 @@ pcs I-PRODUCT
 ላይ I-PRODUCT
 እንደገቡ I-PRODUCT
 ያገኙናል I-PRODUCT
+
+
+
+
 
 2 B-PRODUCT
 pcs I-PRODUCT
@@ -69809,6 +73461,12 @@ pcs I-PRODUCT
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
 2 B-PRODUCT
 pcs I-PRODUCT
 2000 I-PRICE
@@ -69827,6 +73485,10 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 2 B-PRODUCT
 pcs I-PRODUCT
@@ -69921,6 +73583,10 @@ pcs I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
 ሌዘር B-PRODUCT
 ቁምጣ I-PRODUCT
 እና I-PRODUCT
@@ -69931,6 +73597,10 @@ pcs I-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
 
 2 B-PRODUCT
 pcs I-PRODUCT
@@ -69968,6 +73638,10 @@ pcs I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
 2 B-PRODUCT
 pcs I-PRODUCT
 ጅንስ O
@@ -69986,6 +73660,8 @@ pcs I-PRODUCT
 birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
 
 ቱታ B-PRODUCT
 ሱሪ I-PRODUCT
@@ -70006,6 +73682,12 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
 
 infant B-PRODUCT
 to I-PRODUCT
@@ -70056,6 +73738,10 @@ delivery O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 3 B-PRODUCT
 in I-PRODUCT
@@ -70141,6 +73827,16 @@ birr I-PRICE
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
+
+
 Hair B-PRODUCT
 towel I-PRODUCT
 450 I-PRICE
@@ -70159,6 +73855,10 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 Spa B-PRODUCT
 gel I-PRODUCT
@@ -70204,6 +73904,16 @@ case I-PRODUCT
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
+
+
 650 B-PRODUCT
 ብር I-PRODUCT
 የተፈጨ O
@@ -70229,6 +73939,14 @@ case I-PRODUCT
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
 
 baby B-PRODUCT
 carrier I-PRODUCT
@@ -70294,6 +74012,12 @@ delivery O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
 
 Child B-PRODUCT
 safety I-PRODUCT
@@ -70363,6 +74087,14 @@ feeder I-PRODUCT
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
 መዳኒት B-PRODUCT
 መስጫ I-PRODUCT
 እና I-PRODUCT
@@ -70390,6 +74122,16 @@ feeder I-PRODUCT
 እንደገቡ I-PRODUCT
 ያገኙናል I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
 01 B-PRODUCT
 CONCEPT I-PRODUCT
 CAR I-PRODUCT
@@ -70410,6 +74152,12 @@ birr I-PRICE
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
 Unicorn B-PRODUCT
 plus I-PRODUCT
 toy I-PRODUCT
@@ -70429,6 +74177,10 @@ birr I-PRODUCT
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 Purity B-PRODUCT
 በተለያየ I-PRODUCT
@@ -70459,6 +74211,18 @@ protector I-PRODUCT
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
+
+
+
+
 
 የህፃት B-PRODUCT
 የፀጉር I-PRODUCT
@@ -70566,6 +74330,10 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Plush B-PRODUCT
 toys I-PRODUCT
 1000 I-PRICE
@@ -70584,6 +74352,8 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
 
 ስትሮ B-PRODUCT
 እንዲሁም I-PRODUCT
@@ -70611,6 +74381,20 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Bubble B-PRODUCT
 gun I-PRODUCT
@@ -70650,6 +74434,8 @@ gun I-PRODUCT
 እንደገቡ O
 ያገኙናል O
 
+
+
 Baby B-PRODUCT
 comb I-PRODUCT
 and I-PRODUCT
@@ -70671,6 +74457,10 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
@@ -70778,6 +74568,16 @@ birr I-PRICE
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
+
+
 የልጆች B-PRODUCT
 አልጋ I-PRODUCT
 ገና I-PRODUCT
@@ -70833,6 +74633,10 @@ delivery O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
 Only B-PRODUCT
 baby I-PRODUCT
 natural I-PRODUCT
@@ -70875,6 +74679,20 @@ feeder I-PRODUCT
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ingenuity B-PRODUCT
 Monlight I-PRODUCT
@@ -70982,6 +74800,20 @@ delivery O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 KGL B-PRODUCT
 BB I-PRODUCT
 high I-PRODUCT
@@ -71019,6 +74851,14 @@ DELIVERY O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
 
 በድጋሚ B-PRODUCT
 ውስን I-PRODUCT
@@ -71146,6 +74986,10 @@ in O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 Mini B-PRODUCT
 kids I-PRODUCT
 pull I-PRODUCT
@@ -71169,6 +75013,20 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 original I-PRODUCT
@@ -71198,6 +75056,18 @@ delivery O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
+
+
+
+
 በድጋሚ B-PRODUCT
 ውስን I-PRODUCT
 ፍሬ I-PRODUCT
@@ -71226,6 +75096,14 @@ delivery O
 0905707448 I-PHONE
 2800 I-PRICE
 ብር I-PRICE
+
+
+
+
+
+
+
+
 
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
@@ -71294,6 +75172,14 @@ birr I-PRICE
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
 ከ B-PRODUCT
 30 I-PRODUCT
 ኳሶች I-PRODUCT
@@ -71326,6 +75212,10 @@ birr I-PRICE
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
 42 B-PRODUCT
 ፍሬ I-PRODUCT
 የተለያዩ I-PRODUCT
@@ -71337,6 +75227,12 @@ birr I-PRICE
 ብር I-PRODUCT
 0909003864 I-PRODUCT
 0905707448 I-PRODUCT
+
+
+
+
+
+
 
 ስትሮ B-PRODUCT
 እንዲሁም I-PRODUCT
@@ -71393,6 +75289,18 @@ birr I-PRICE
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
+
+
+
+
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
 በአንድ I-PRODUCT
@@ -71437,6 +75345,14 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
+
+
 ውድ B-PRODUCT
 ደምበኞቻችን I-PRODUCT
 ዛሬ I-PRODUCT
@@ -71454,6 +75370,8 @@ delivery O
 በታላቄ I-PRODUCT
 አክብሮት I-PRODUCT
 ነው I-PRODUCT
+
+
 
 ባለ B-PRODUCT
 ኩርሲ I-PRODUCT
@@ -71570,6 +75488,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 ለተወሰነ B-PRODUCT
 ጊዜ I-PRODUCT
 የሚቆይ I-PRODUCT
@@ -71633,6 +75557,8 @@ delivery O
 እንደገቡ O
 ያገኙናል O
 
+
+
 አልቋል B-PRODUCT
 ላልናቹ I-PRODUCT
 ደምበኞቻችን I-PRODUCT
@@ -71681,6 +75607,20 @@ feeder O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Electric B-PRODUCT
 baby I-PRODUCT
@@ -71745,6 +75685,16 @@ trimmer I-PRODUCT
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
+
+
 
 Hair B-PRODUCT
 Dye I-PRODUCT
@@ -71830,6 +75780,8 @@ Capacity: O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
 
 Shower B-PRODUCT
 cap I-PRODUCT
@@ -71938,6 +75890,8 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
 200ብር B-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
@@ -71953,6 +75907,16 @@ FF-09 O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
+
+
 
 100 B-PRODUCT
 ብር I-PRODUCT
@@ -71970,6 +75934,14 @@ FF-09 O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 nail I-PRODUCT
@@ -72119,6 +76091,12 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
 Baby B-PRODUCT
 keen I-PRODUCT
 protector I-PRODUCT
@@ -72244,10 +76222,16 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
 330 B-PRODUCT
 ብር I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
 
 የድድ B-PRODUCT
 ማከኪያ I-PRODUCT
@@ -72255,6 +76239,20 @@ FF-09 O
 230ብር I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 300ብር B-PRODUCT
 አድራሻችን O
@@ -72286,6 +76284,10 @@ FF-09 O
 400ብር I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
 
 Sky B-PRODUCT
 baby I-PRODUCT
@@ -72326,6 +76328,12 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
 Baby B-PRODUCT
 girl I-PRODUCT
 walking I-PRODUCT
@@ -72347,26 +76355,9 @@ birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
 
-Baby B-PRODUCT
-boy I-PRODUCT
-walking I-PRODUCT
-shoe I-PRODUCT
-650 I-PRICE
-birr I-PRICE
-0909003864 I-PHONE
-0905707448 I-PHONE
-አድራሻ O
-ገርጂ I-LOC
-ኢምፔሪያል I-LOC
-ከሳሚ O
-ህንፃ I-LOC
-ጎን O
-አልፎዝ O
-ፕላዛ I-LOC
-ግራውንድ O
-ላይ O
-እንደገቡ O
-ያገኙናል O
+
+
+
 
 Baby B-PRODUCT
 boy I-PRODUCT
@@ -72389,6 +76380,12 @@ birr I-PRICE
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
 Baby B-PRODUCT
 boy I-PRODUCT
 walking I-PRODUCT
@@ -72409,6 +76406,41 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+Baby B-PRODUCT
+boy I-PRODUCT
+walking I-PRODUCT
+shoe I-PRODUCT
+650 I-PRICE
+birr I-PRICE
+0909003864 I-PHONE
+0905707448 I-PHONE
+አድራሻ O
+ገርጂ I-LOC
+ኢምፔሪያል I-LOC
+ከሳሚ O
+ህንፃ I-LOC
+ጎን O
+አልፎዝ O
+ፕላዛ I-LOC
+ግራውንድ O
+ላይ O
+እንደገቡ O
+ያገኙናል O
+
+
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 girl I-PRODUCT
@@ -72430,6 +76462,12 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
 
 Newborn B-PRODUCT
 baby I-PRODUCT
@@ -72456,6 +76494,12 @@ Price: O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
+
+
 
 Peggy B-PRODUCT
 bank I-PRODUCT
@@ -72564,6 +76608,14 @@ FF-09 O
 ደስታ O
 እናበስራለን O
 
+
+
+
+
+
+
+
+
 የልጆች B-PRODUCT
 ቴንት I-PRODUCT
 ድንዃን I-PRODUCT
@@ -72589,6 +76641,10 @@ delivery O
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 የአልጋ B-PRODUCT
 ማጫዎቻ I-PRODUCT
@@ -72616,6 +76672,12 @@ delivery I-PRODUCT
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
 4 B-PRODUCT
 pcs I-PRODUCT
 Kids I-PRODUCT
@@ -72637,6 +76699,10 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 2 B-PRODUCT
 ፍሬ I-PRODUCT
@@ -72663,6 +76729,14 @@ birr I-PRICE
 ላይ I-PRODUCT
 እንደገቡ I-PRODUCT
 ያገኙናል I-PRODUCT
+
+
+
+
+
+
+
+
 
 3 B-PRODUCT
 pcs I-PRODUCT
@@ -72702,6 +76776,10 @@ brush I-PRODUCT
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
 Smart B-PRODUCT
 cup I-PRODUCT
 500 I-PRICE
@@ -72720,6 +76798,10 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 Baby B-PRODUCT
 girl I-PRODUCT
@@ -72743,6 +76825,8 @@ for O
 እንደገቡ O
 ያገኙናል O
 
+
+
 white B-PRODUCT
 crown I-PRODUCT
 with I-PRODUCT
@@ -72764,6 +76848,10 @@ birr I-PRICE
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
 Tiara B-PRODUCT
 with I-PRODUCT
 2 I-PRODUCT
@@ -72784,6 +76872,10 @@ birr I-PRICE
 ላይ O
 እንደገቡ O
 ያገኙናል O
+
+
+
+
 
 Hair B-PRODUCT
 clip I-PRODUCT
@@ -72846,6 +76938,10 @@ birr I-PRICE
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
 ውድ B-PRODUCT
 የሲና I-PRODUCT
 ኪድስ I-PRODUCT
@@ -72892,6 +76988,12 @@ birr I-PRICE
 መሆኑን O
 በአክብሮት O
 እንገልፃለን O
+
+
+
+
+
+
 
 Big B-PRODUCT
 boss I-PRODUCT
@@ -72954,6 +77056,18 @@ delivery O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
 Toukie B-PRODUCT
 bottle I-PRODUCT
 የውሃ O
@@ -72971,6 +77085,16 @@ bottle I-PRODUCT
 600ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 Quality B-PRODUCT
 high I-PRODUCT
@@ -72996,6 +77120,18 @@ FREE O
 DELIVERY O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 Children’s B-PRODUCT
 digital I-PRODUCT
@@ -73042,6 +77178,12 @@ delivery O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
 2 B-PRODUCT
 pcs I-PRODUCT
 የፍሩት O
@@ -73057,6 +77199,8 @@ pcs I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
 Only B-PRODUCT
 baby I-PRODUCT
 2ፍሬ I-PRODUCT
@@ -73066,6 +77210,22 @@ baby I-PRODUCT
 ብር I-PRODUCT
 0905707448 I-PRODUCT
 0909003864 I-PRODUCT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Milk B-PRODUCT
 powder I-PRODUCT
@@ -73121,6 +77281,16 @@ set I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
 የሚገዛ I-PRODUCT
@@ -73145,6 +77315,22 @@ set I-PRODUCT
 2700 I-PRICE
 ብር I-PRICE
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 መዘነጫም B-PRODUCT
 መሆን I-PRODUCT
 የሚችል I-PRODUCT
@@ -73160,6 +77346,16 @@ set I-PRODUCT
 1100ብር I-PRODUCT
 0909003864 I-PRODUCT
 0905707448 I-PRODUCT
+
+
+
+
+
+
+
+
+
+
 
 የልጆች B-PRODUCT
 ተጣጣፊ I-PRODUCT
@@ -73213,6 +77409,12 @@ delivery O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
 Kids B-PRODUCT
 sofa I-PRODUCT
 3200 I-PRICE
@@ -73221,6 +77423,8 @@ free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 Baby B-PRODUCT
 Jumpsuit I-PRODUCT
@@ -73234,6 +77438,10 @@ available O
 ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
 
 የልጆች B-PRODUCT
 መመገቢያ I-PRODUCT
@@ -73268,6 +77476,12 @@ available O
 0909003864 I-PRODUCT
 0905707448 I-PRODUCT
 
+
+
+
+
+
+
 Glitter B-PRODUCT
 hair I-PRODUCT
 clips I-PRODUCT
@@ -73278,6 +77492,16 @@ for O
 pcs O
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 Sky B-PRODUCT
 baby I-PRODUCT
@@ -73316,6 +77540,14 @@ DELIVERY O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
+
+
 2 B-PRODUCT
 pcs I-PRODUCT
 የፍሩት O
@@ -73326,6 +77558,12 @@ pcs I-PRODUCT
 ብር I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
 
 በጣም B-PRODUCT
 ምቹ I-PRODUCT
@@ -73460,6 +77698,18 @@ quality O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
 2 B-PRODUCT
 pcs I-PRODUCT
 1000 I-PRICE
@@ -73475,6 +77725,10 @@ birr I-PRICE
 birr I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
 
 ሚኒ B-PRODUCT
 ጉርድ I-PRODUCT
@@ -73494,6 +77748,10 @@ pcs I-PRODUCT
 birr I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
 
 8 B-PRODUCT
 pcs I-PRODUCT
@@ -73531,6 +77789,10 @@ pcs I-PRODUCT
 የገና O
 በአል O
 
+
+
+
+
 3 B-PRODUCT
 pcs I-PRODUCT
 ሸሚዝ O
@@ -73541,6 +77803,10 @@ pcs I-PRODUCT
 ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
 
 3 B-PRODUCT
 pcs I-PRODUCT
@@ -73559,6 +77825,8 @@ pcs I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
 እጅጌ B-PRODUCT
 ሙሉ I-PRODUCT
 ዳይፐር I-PRODUCT
@@ -73572,6 +77840,10 @@ pcs I-PRODUCT
 ብር I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
 
 ባለ B-PRODUCT
 ፈር I-PRODUCT
@@ -73587,6 +77859,10 @@ pcs I-PRODUCT
 0909003864 I-PRODUCT
 0905707448 I-PRODUCT
 
+
+
+
+
 ባለ B-PRODUCT
 ፈር I-PRODUCT
 የልጆች I-PRODUCT
@@ -73599,6 +77875,10 @@ pcs I-PRODUCT
 ብር I-PRODUCT
 0909003864 I-PRODUCT
 0905707448 I-PRODUCT
+
+
+
+
 
 Stroller B-PRODUCT
 + I-PRODUCT
@@ -73655,6 +77935,10 @@ pcs I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
 ሌዘር B-PRODUCT
 ቁምጣ I-PRODUCT
 እና I-PRODUCT
@@ -73665,6 +77949,10 @@ pcs I-PRODUCT
 birr I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
 
 2 B-PRODUCT
 pcs I-PRODUCT
@@ -73687,6 +77975,10 @@ pcs I-PRODUCT
 ብር I-PRODUCT
 0909003864 I-PRODUCT
 0905707448 I-PRODUCT
+
+
+
+
 
 2 B-PRODUCT
 pcs I-PRODUCT
@@ -73712,6 +78004,10 @@ pcs I-PRODUCT
 0909003864 I-PRODUCT
 0905707448 I-PRODUCT
 
+
+
+
+
 ከ1-4 B-PRODUCT
 አመት I-PRODUCT
 ቬሎውች I-PRODUCT
@@ -73719,6 +78015,10 @@ pcs I-PRODUCT
 ብር I-PRODUCT
 0909003864 I-PRODUCT
 0905707448 I-PRODUCT
+
+
+
+
 
 2pcs B-PRODUCT
 ቬሎ O
@@ -73738,6 +78038,10 @@ pcs I-PRODUCT
 ብር I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
 
 2 B-PRODUCT
 pcs I-PRODUCT
@@ -73775,6 +78079,10 @@ pcs I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
 2 B-PRODUCT
 pcs I-PRODUCT
 ጅንስ O
@@ -73806,6 +78114,10 @@ pcs I-PRODUCT
 ብር I-PRODUCT
 0909003864 I-PRODUCT
 0905707448 I-PRODUCT
+
+
+
+
 
 2 B-PRODUCT
 pcs I-PRODUCT
@@ -73868,6 +78180,12 @@ pcs I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
 ባለ B-PRODUCT
 ጎማ I-PRODUCT
 የልጆች I-PRODUCT
@@ -73881,6 +78199,10 @@ pcs I-PRODUCT
 2400ብር I-PRODUCT
 0909003864 I-PRODUCT
 0905707448 I-PRODUCT
+
+
+
+
 
 Baby B-PRODUCT
 kingdom I-PRODUCT
@@ -73898,6 +78220,10 @@ Free O
 delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
 
 Baby B-PRODUCT
 walker I-PRODUCT
@@ -73975,6 +78301,12 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
 Baby B-PRODUCT
 girl I-PRODUCT
 walking I-PRODUCT
@@ -73983,6 +78315,10 @@ shoe I-PRODUCT
 birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
 
 Tutu B-PRODUCT
 dress I-PRODUCT
@@ -73995,6 +78331,12 @@ birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
 Antilost B-PRODUCT
 wrist I-PRODUCT
 link I-PRODUCT
@@ -74002,6 +78344,16 @@ link I-PRODUCT
 birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -74068,6 +78420,14 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
+
+
 Fork B-PRODUCT
 and I-PRODUCT
 spoon I-PRODUCT
@@ -74080,6 +78440,12 @@ set I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
 New B-PRODUCT
 born I-PRODUCT
 baby I-PRODUCT
@@ -74090,6 +78456,12 @@ socks I-PRODUCT
 birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
 
 Infantino B-PRODUCT
 baby I-PRODUCT
@@ -74108,6 +78480,14 @@ carier I-PRODUCT
 14kg O
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 keen I-PRODUCT
@@ -74131,6 +78511,14 @@ as O
 ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
 
 Only B-PRODUCT
 baby I-PRODUCT
@@ -74162,6 +78550,12 @@ delivery O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
 የልጆች B-PRODUCT
 የፀጉር I-PRODUCT
 ጌጥ I-PRODUCT
@@ -74184,6 +78578,16 @@ delivery O
 0909003864 I-PRODUCT
 0905707448 I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
 3 B-PRODUCT
 pcs I-PRODUCT
 Baby I-PRODUCT
@@ -74193,6 +78597,10 @@ headband I-PRODUCT
 birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
 
 Bib B-PRODUCT
 + I-PRODUCT
@@ -74229,6 +78637,12 @@ turban I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
 650 B-PRODUCT
 ብር I-PRODUCT
 የተፈጨ O
@@ -74239,6 +78653,8 @@ turban I-PRODUCT
 መጭመቂያ O
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
 
 13 B-PRODUCT
 pec I-PRODUCT
@@ -74256,17 +78672,29 @@ birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
 Baby B-PRODUCT
 Turban I-PRODUCT
 250birr I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
 Baby B-PRODUCT
 turban I-PRODUCT
 350birr I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
 
 6 B-PRODUCT
 in I-PRODUCT
@@ -74295,6 +78723,8 @@ set I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
 የልጅሰሀን B-PRODUCT
 ሰሀኑ O
 እንዳይደፋባቻው O
@@ -74308,6 +78738,18 @@ set I-PRODUCT
 500ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 በሶኬት B-PRODUCT
 እና I-PRODUCT
@@ -74395,6 +78837,14 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
+
+
 Electronic B-PRODUCT
 beby I-PRODUCT
 cradle I-PRODUCT
@@ -74449,6 +78899,24 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Blue B-PRODUCT
 squal I-PRODUCT
 face I-PRODUCT
@@ -74467,12 +78935,32 @@ birr I-PRICE
 free O
 delivery O
 
+
+
+
+
+
+
+
+
 Disc B-PRODUCT
 ball I-PRODUCT
 1200 I-PRICE
 birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 Happy B-PRODUCT
 bed I-PRODUCT
@@ -74560,6 +79048,16 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 Wide B-PRODUCT
 mouth I-PRODUCT
 silica I-PRODUCT
@@ -74623,10 +79121,16 @@ silcone O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
 330 B-PRODUCT
 ብር I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
 
 የድድ B-PRODUCT
 ማከኪያ I-PRODUCT
@@ -74645,6 +79149,10 @@ free O
 delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
 
 የለልጆች B-PRODUCT
 ዥዋዥዌ I-PRODUCT
@@ -74673,6 +79181,10 @@ birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
 4 B-PRODUCT
 pcs I-PRODUCT
 baby I-PRODUCT
@@ -74687,6 +79199,22 @@ cup O
 birr I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 2 B-PRODUCT
 in I-PRODUCT
@@ -74775,6 +79303,12 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
 6 B-PRODUCT
 pices I-PRODUCT
 Johnson I-PRODUCT
@@ -74799,6 +79333,8 @@ delivery O
 - O
 0905707448 I-PHONE
 
+
+
 3-8 B-PRODUCT
 እድሜ I-PRODUCT
 1100ብር I-PRODUCT
@@ -74807,6 +79343,8 @@ delivery O
 1200ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
 
 ውድ B-PRODUCT
 የሲና I-PRODUCT
@@ -74855,6 +79393,20 @@ delivery O
 በአክብሮት O
 እንገልፃለን O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
 የሚገዛ I-PRODUCT
@@ -74880,6 +79432,14 @@ delivery O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
+
+
 Magic B-PRODUCT
 Play I-PRODUCT
 Sand I-PRODUCT
@@ -74889,6 +79449,10 @@ moulds I-PRODUCT
 ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
 
 Sky B-PRODUCT
 baby I-PRODUCT
@@ -74929,6 +79493,16 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 Free B-PRODUCT
 shipping I-PRODUCT
 musical I-PRODUCT
@@ -74942,6 +79516,8 @@ free O
 delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
 
 Only B-PRODUCT
 Baby I-PRODUCT
@@ -74976,6 +79552,24 @@ as O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 baby B-PRODUCT
 girl I-PRODUCT
 sweater I-PRODUCT
@@ -74997,12 +79591,20 @@ as O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
 850 B-PRODUCT
 g I-PRODUCT
 2400 I-PRICE
 birr I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
 
 መጠራረጊያ B-PRODUCT
 ማጠቢያ O
@@ -75022,6 +79624,8 @@ birr I-PRICE
 በ350ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
 
 Baby B-PRODUCT
 bottle I-PRODUCT
@@ -75061,11 +79665,23 @@ Price: O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
 2pcs B-PRODUCT
 260 I-PRODUCT
 birr I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 Rotating B-PRODUCT
 car I-PRODUCT
@@ -75106,6 +79722,10 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
 ዃሊቲ B-PRODUCT
 ዳይፐር I-PRODUCT
 ቲሸርት I-PRODUCT
@@ -75115,6 +79735,12 @@ delivery O
 ብር I-PRODUCT
 0905707448 I-PRODUCT
 0909003864 I-PRODUCT
+
+
+
+
+
+
 
 ለኮንዶሚኒየም B-PRODUCT
 ለጠባብ I-PRODUCT
@@ -75162,12 +79788,26 @@ t.me/sinayelj O
 Free O
 delivery O
 
+
+
+
+
+
+
+
+
+
+
 ወኪንግ B-PRODUCT
 ሹዝ I-PRODUCT
 550 I-PRICE
 ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
 
 የሽንት B-PRODUCT
 ቤት I-PRODUCT
@@ -75176,6 +79816,10 @@ delivery O
 ብር I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
 
 ካሉት B-PRODUCT
 4ሳይዞ I-PRODUCT
@@ -75238,6 +79882,10 @@ https://t.me/proxy?server=russia-dd.proxy.digitalresistance.dog&port=443&secret=
 ሲና I-PRODUCT
 ኪድስ I-PRODUCT
 
+
+
+
+
 Chicco B-PRODUCT
 5 I-PRODUCT
 in I-PRODUCT
@@ -75254,6 +79902,18 @@ Free O
 delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 ጎማ B-PRODUCT
 ያለው I-PRODUCT
@@ -75287,6 +79947,8 @@ delivery I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
 Only B-PRODUCT
 baby I-PRODUCT
 2ፍሬ I-PRODUCT
@@ -75296,6 +79958,8 @@ baby I-PRODUCT
 ብር I-PRODUCT
 0905707448 I-PRODUCT
 0909003864 I-PRODUCT
+
+
 
 Hayper B-PRODUCT
 gain I-PRODUCT
@@ -75326,6 +79990,10 @@ Free O
 delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
 
 ካሉት B-PRODUCT
 4ሳይዞች I-PRODUCT
@@ -75399,6 +80067,12 @@ t.me/sinayelj O
 በአክብሮት I-PRODUCT
 እንገልፃለን I-PRODUCT
 
+
+
+
+
+
+
 Baby B-PRODUCT
 walking I-PRODUCT
 shose I-PRODUCT
@@ -75406,6 +80080,12 @@ shose I-PRODUCT
 ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
 
 Carters B-PRODUCT
 brand I-PRODUCT
@@ -75425,6 +80105,12 @@ cotton O
 ብር I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
 
 brand B-PRODUCT
 walker I-PRODUCT
@@ -75477,6 +80163,16 @@ Free O
 delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 Vambloom B-PRODUCT
 motor I-PRODUCT
@@ -75532,6 +80228,8 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
 happy B-PRODUCT
 every I-PRODUCT
 day I-PRODUCT
@@ -75557,6 +80255,8 @@ day I-PRODUCT
 ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
 
 3 B-PRODUCT
 pcs I-PRODUCT
@@ -75590,6 +80290,14 @@ birr I-PRICE
 እንሰጣለን O
 መልካም O
 ቀን!!! O
+
+
+
+
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -75654,6 +80362,8 @@ as O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
 25-29 B-PRODUCT
 ቁጥር I-PRODUCT
 1600 I-PRICE
@@ -75661,17 +80371,27 @@ as O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
 21_25 B-PRODUCT
 ቁጥር I-PRODUCT
 1350 I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
 22-26 B-PRODUCT
 ቁጥር I-PRODUCT
 1600 I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
 
 baby B-PRODUCT
 carters I-PRODUCT
@@ -75687,6 +80407,22 @@ month O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Kids B-PRODUCT
 sofa I-PRODUCT
 3000 I-PRICE
@@ -75695,6 +80431,14 @@ free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 የልጆች B-PRODUCT
 ለስላሳ I-PRODUCT
@@ -75714,6 +80458,8 @@ delivery O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
 ልጆች B-PRODUCT
 ሲታጠቡ I-PRODUCT
 ጸጉራቸዉ I-PRODUCT
@@ -75727,6 +80473,16 @@ delivery O
 400ብር I-PRICE
 0909003864 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 5 B-PRODUCT
 in I-PRODUCT
@@ -75764,6 +80520,14 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 aiebao B-PRODUCT
 brand I-PRODUCT
 ባለ I-PRODUCT
@@ -75795,6 +80559,18 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
 usb B-PRODUCT
 ፍላሽ I-PRODUCT
 የሚቀበል I-PRODUCT
@@ -75819,6 +80595,12 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 LCD B-PRODUCT
 drawing I-PRODUCT
 tablet I-PRODUCT
@@ -75828,6 +80610,12 @@ Multicolor O
 birr I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
 
 850 B-PRODUCT
 ብር I-PRODUCT
@@ -75853,6 +80641,10 @@ birr I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
 750 B-PRODUCT
 ብር I-PRODUCT
 የተለያዩ O
@@ -75864,6 +80656,16 @@ birr I-PRICE
 አሏቸው O
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 7 B-PRODUCT
 in I-PRODUCT
@@ -75890,6 +80692,8 @@ birr I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
 3 B-PRODUCT
 in I-PRODUCT
 1 I-PRODUCT
@@ -75901,11 +80705,31 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 summer I-PRODUCT
 jacket I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 Infantino B-PRODUCT
 original I-PRODUCT
@@ -75944,6 +80768,12 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -75989,10 +80819,28 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
+
+
 550 B-PRODUCT
 ብር I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 የተለያዩ B-PRODUCT
 ሙዚቃዎችን I-PRODUCT
@@ -76018,6 +80866,20 @@ free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Vambloom B-PRODUCT
 motor I-PRODUCT
@@ -76082,6 +80944,12 @@ birr I-PRICE
 Free O
 delivery O
 
+
+
+
+
+
+
 ጠንካራ B-PRODUCT
 ስቴንለስ I-PRODUCT
 ስቲል I-PRODUCT
@@ -76099,12 +80967,28 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
 Infant B-PRODUCT
 hoodies I-PRODUCT
 1150 I-PRICE
 birr I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 5-in-1 B-PRODUCT
 rocking I-PRODUCT
@@ -76276,12 +81160,20 @@ delivery O
 8300 I-PRICE
 ብር I-PRICE
 
+
+
 ለልጆቾ B-PRODUCT
 የክረምት I-PRODUCT
 ምርጥ I-PRODUCT
 መዝናኛ I-PRODUCT
 300 I-PRICE
 ብር I-PRICE
+
+
+
+
+
+
 
 3 B-PRODUCT
 in I-PRODUCT
@@ -76337,6 +81229,10 @@ in I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
 3pcs B-PRODUCT
 quality I-PRODUCT
 kid's I-PRODUCT
@@ -76384,6 +81280,14 @@ turkey I-PRODUCT
 ለማሳየት I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
 double B-PRODUCT
 face I-PRODUCT
 Baby I-PRODUCT
@@ -76395,6 +81299,8 @@ jacket I-PRODUCT
 ከስር O
 ይመልከቱ O
 
+
+
 Baby B-PRODUCT
 summer I-PRODUCT
 jacket I-PRODUCT
@@ -76405,6 +81311,14 @@ jacket I-PRODUCT
 3000ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
 
 ከ B-PRODUCT
 33-38 I-PRODUCT
@@ -76425,6 +81339,8 @@ birr I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
 3pcs B-PRODUCT
 kid's I-PRODUCT
 clothes I-PRODUCT
@@ -76441,6 +81357,12 @@ clothes I-PRODUCT
 1700ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 ባለ B-PRODUCT
 ኩርሲ I-PRODUCT
@@ -76462,6 +81384,14 @@ clothes I-PRODUCT
 2400ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 ኦሪጅናሉ B-PRODUCT
 NAFEIO I-PRODUCT
@@ -76496,6 +81426,16 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 Soft B-PRODUCT
 foam I-PRODUCT
 puzzle I-PRODUCT
@@ -76516,6 +81456,12 @@ free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 3 B-PRODUCT
 in I-PRODUCT
@@ -76594,6 +81540,10 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 የልጅሰሀን B-PRODUCT
 ሰሀኑ O
 እንዳይደፋባቻው O
@@ -76606,6 +81556,10 @@ delivery O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
 Potato B-PRODUCT
 pacifier I-PRODUCT
 እንዳይወድቅባቸው O
@@ -76616,6 +81570,12 @@ pacifier I-PRODUCT
 150ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 አልቋል B-PRODUCT
 ላልናቹ I-PRODUCT
@@ -76638,6 +81598,12 @@ pacifier I-PRODUCT
 450ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
 
 ለዉድ B-PRODUCT
 ልጆ I-PRODUCT
@@ -76679,6 +81645,10 @@ pacifier I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
 ለዉድ B-PRODUCT
 ልጆ I-PRODUCT
 ኦርጂናል I-PRODUCT
@@ -76719,6 +81689,10 @@ pacifier I-PRODUCT
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
 Kids B-PRODUCT
 bed I-PRODUCT
 room I-PRODUCT
@@ -76730,6 +81704,12 @@ more O
 design O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 የልጆች B-PRODUCT
 ማጠቢያ I-PRODUCT
@@ -76748,6 +81728,16 @@ sandals I-PRODUCT
 birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 ዎኪንግ B-PRODUCT
 ሹዝ I-PRODUCT
@@ -76824,6 +81814,16 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 bouncer I-PRODUCT
 ከተወለዱ O
@@ -76863,6 +81863,20 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 baby B-PRODUCT
 high I-PRODUCT
@@ -76924,6 +81938,14 @@ DELIVERY O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 mosquito I-PRODUCT
 net I-PRODUCT
@@ -76943,6 +81965,16 @@ available O
 ይመልከቱ O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 የልጆች B-PRODUCT
 ባለፒያኖ I-PRODUCT
@@ -76985,6 +82017,8 @@ delivery O
 0945097042 I-PHONE
 t.me/sinayelj O
 
+
+
 1100 B-PRODUCT
 birr I-PRODUCT
 0945097042 I-PHONE
@@ -77013,9 +82047,15 @@ birr I-PRODUCT
 0945097042 I-PHONE
 0905707448 I-PHONE
 
+
+
 150birr B-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 Quality B-PRODUCT
 kids I-PRODUCT
@@ -77026,6 +82066,8 @@ school I-PRODUCT
 150birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 Baby B-PRODUCT
 underwear I-PRODUCT
@@ -77043,6 +82085,8 @@ cloth I-PRODUCT
 1100ብር I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
 
 6 B-PRODUCT
 pcs I-PRODUCT
@@ -77114,12 +82158,20 @@ set I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
 3pcs B-PRODUCT
 quality I-PRODUCT
 cloths I-PRODUCT
 1600birr I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
 
 2pcs B-PRODUCT
 quality I-PRODUCT
@@ -77135,10 +82187,22 @@ birr I-PRICE
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
 1150 B-PRODUCT
 birr I-PRODUCT
 0905707448 I-PHONE
 0909003864 I-PHONE
+
+
+
+
+
+
+
+
 
 በጣም B-PRODUCT
 ኮምፎርተብል I-PRODUCT
@@ -77186,6 +82250,14 @@ free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 Vambloom B-PRODUCT
 motor I-PRODUCT
@@ -77289,6 +82361,8 @@ delivery O
 0909003864 I-PHONE
 0905707448 I-PHONE
 
+
+
 ከ B-PRODUCT
 አሜሪካ I-PRODUCT
 በእጅ I-PRODUCT
@@ -77309,6 +82383,10 @@ Only O
 0905707448 I-PHONE
 0909003864 I-PHONE
 
+
+
+
+
 We B-PRODUCT
 baby I-PRODUCT
 25 I-PRODUCT
@@ -77320,6 +82398,8 @@ bag O
 850birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 Bebekevi B-PRODUCT
 brand I-PRODUCT
@@ -77380,6 +82460,8 @@ glove I-PRODUCT
 መለያችን O
 ነው O
 
+
+
 ውድ B-PRODUCT
 የሲና I-PRODUCT
 ኪድስ I-PRODUCT
@@ -77404,6 +82486,12 @@ glove I-PRODUCT
 በአክብሮት I-PRODUCT
 እንገልፃለን I-PRODUCT
 
+
+
+
+
+
+
 5800ብር B-PRODUCT
 free O
 delivery O
@@ -77426,6 +82514,10 @@ delivery O
 Sold B-PRODUCT
 out I-PRODUCT
 
+
+
+
+
 Mastela B-PRODUCT
 happy I-PRODUCT
 frinds I-PRODUCT
@@ -77438,6 +82530,8 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 Shower B-PRODUCT
 cap I-PRODUCT
@@ -77481,11 +82575,23 @@ cap I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 Chicco B-PRODUCT
 bottle I-PRODUCT
 400ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 ኦሪጅናሉ B-PRODUCT
 ሶካኒ I-PRODUCT
@@ -77520,10 +82626,20 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 1pcs B-PRODUCT
 200birr I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 H&M B-PRODUCT
 ብራንድ I-PRODUCT
@@ -77563,6 +82679,16 @@ zara B-PRODUCT
 መሆኑን O
 እናሳውቃለን O
 
+
+
+
+
+
+
+
+
+
+
 የለልጆች B-PRODUCT
 ዥዋዥዌ I-PRODUCT
 ዲዛይኑ O
@@ -77576,6 +82702,22 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 For B-PRODUCT
 baby I-PRODUCT
@@ -77829,6 +82971,12 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 Baby B-PRODUCT
 stroller I-PRODUCT
 ቀለል O
@@ -77912,6 +83060,12 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 Safty B-PRODUCT
 cover I-PRODUCT
 4pcs O
@@ -77944,6 +83098,10 @@ bed I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 Milk B-PRODUCT
 powder I-PRODUCT
 container I-PRODUCT
@@ -77970,6 +83128,12 @@ container I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 Kids B-PRODUCT
 mat I-PRODUCT
 1.20*180cm O
@@ -77979,6 +83143,18 @@ free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 big B-PRODUCT
 size I-PRODUCT
@@ -78024,6 +83200,10 @@ suit I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 3pcs B-PRODUCT
 kid's I-PRODUCT
 clothes I-PRODUCT
@@ -78041,6 +83221,8 @@ clothes I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
 berr B-PRODUCT
 brand I-PRODUCT
 25-30 O
@@ -78048,6 +83230,10 @@ brand I-PRODUCT
 1600ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 350ብር B-PRODUCT
 አድራሻችን O
@@ -78065,6 +83251,18 @@ brand I-PRODUCT
 ቁጥር O
 0945097042 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 ለኮንዶሚኒየም B-PRODUCT
 ለጠባብ I-PRODUCT
@@ -78108,6 +83306,14 @@ t.me/sinayelj O
 Free O
 delivery O
 
+
+
+
+
+
+
+
+
 ኦሪጅናሉ B-PRODUCT
 ቺኮ I-PRODUCT
 ማዘያ I-PRODUCT
@@ -78124,11 +83330,25 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 ሻወር B-PRODUCT
 ጋውን I-PRODUCT
 950ብር I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 baby B-PRODUCT
 bath I-PRODUCT
@@ -78144,6 +83364,16 @@ towel I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 Air B-PRODUCT
 walk I-PRODUCT
 brand I-PRODUCT
@@ -78153,6 +83383,16 @@ shoes I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 Air B-PRODUCT
 walk I-PRODUCT
 brand I-PRODUCT
@@ -78161,6 +83401,16 @@ shoes I-PRODUCT
 1900birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 Air B-PRODUCT
 walk I-PRODUCT
@@ -78171,6 +83421,16 @@ shoes I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 Air B-PRODUCT
 walk I-PRODUCT
 brand I-PRODUCT
@@ -78179,6 +83439,14 @@ shoes I-PRODUCT
 1500birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 Air B-PRODUCT
 walk I-PRODUCT
@@ -78189,6 +83457,14 @@ shoes I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 Air B-PRODUCT
 walk I-PRODUCT
 brand I-PRODUCT
@@ -78197,6 +83473,10 @@ shoes I-PRODUCT
 1900birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 air B-PRODUCT
 walk I-PRODUCT
@@ -78209,6 +83489,10 @@ baby O
 birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 Kids B-PRODUCT
 Tricycle I-PRODUCT
@@ -78255,6 +83539,12 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 Apple B-PRODUCT
 bear I-PRODUCT
 manual I-PRODUCT
@@ -78269,6 +83559,8 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
 BERR B-PRODUCT
 BRAND I-PRODUCT
 21-25 O
@@ -78277,6 +83569,10 @@ BRAND I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 BERR B-PRODUCT
 BRAND I-PRODUCT
 30-35 O
@@ -78284,6 +83580,10 @@ BRAND I-PRODUCT
 1600birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 DDE B-PRODUCT
 brand I-PRODUCT
@@ -78294,6 +83594,10 @@ brand I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 BERR B-PRODUCT
 BRAND I-PRODUCT
 25-30 O
@@ -78302,6 +83606,10 @@ BRAND I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 BERR B-PRODUCT
 BRAND I-PRODUCT
 25-30 O
@@ -78309,6 +83617,10 @@ BRAND I-PRODUCT
 1550birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 Dolce B-PRODUCT
 & I-PRODUCT
@@ -78329,6 +83641,16 @@ brand I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 DDW B-PRODUCT
 brand I-PRODUCT
 21-26 O
@@ -78336,6 +83658,10 @@ brand I-PRODUCT
 1500ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 Brand B-PRODUCT
 BERR I-PRODUCT
@@ -78346,6 +83672,10 @@ BERR I-PRODUCT
 ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 Brand B-PRODUCT
 BERR I-PRODUCT
@@ -78364,12 +83694,32 @@ BERR I-PRODUCT
 የሚያሳይ I-PRODUCT
 ቪዲዮ I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
+
+
 ALG B-PRODUCT
 teether I-PRODUCT
 200 I-PRICE
 birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 BLB B-PRODUCT
 brand I-PRODUCT
@@ -78390,6 +83740,8 @@ free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 8pcs B-PRODUCT
 gift I-PRODUCT
@@ -78447,6 +83799,10 @@ material O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 infant B-PRODUCT
 to I-PRODUCT
 toddler I-PRODUCT
@@ -78491,6 +83847,10 @@ delivery O
 0905707448 I-PHONE
 ቪዲዮውን O
 ይመልከቱ O
+
+
+
+
 
 very B-PRODUCT
 bid I-PRODUCT
@@ -78552,6 +83912,8 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
 1050ብር B-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
@@ -78568,6 +83930,12 @@ blocking I-PRODUCT
 1100birr I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 harmonium B-PRODUCT
 የልጆች I-PRODUCT
@@ -78602,6 +83970,14 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 t.me/sinayelj O
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 walker I-PRODUCT
@@ -78673,6 +84049,32 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 BERR B-PRODUCT
 BRAND I-PRODUCT
 KIDS I-PRODUCT
@@ -78682,6 +84084,26 @@ SHOES I-PRODUCT
 1300ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 beer B-PRODUCT
 brand I-PRODUCT
@@ -78695,6 +84117,8 @@ quality I-PRODUCT
 1200ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 ኦርጂናል B-PRODUCT
 መኪና I-PRODUCT
@@ -78732,6 +84156,12 @@ quality I-PRODUCT
 ይደዉሉ O
 0945097042 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
 
 Made B-PRODUCT
 in I-PRODUCT
@@ -78832,6 +84262,10 @@ gym I-PRODUCT
 አስመጪ O
 t.me/sinayelj O
 
+
+
+
+
 አልቋል B-PRODUCT
 ላልናቹ I-PRODUCT
 ደምበኞቻችን I-PRODUCT
@@ -78866,6 +84300,12 @@ t.me/sinayelj O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 Comfy B-PRODUCT
 portable I-PRODUCT
 baby I-PRODUCT
@@ -78877,6 +84317,20 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Portable B-PRODUCT
 baby I-PRODUCT
@@ -78900,6 +84354,14 @@ delivery O
 ይመልከቱ O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 Mama B-PRODUCT
 love I-PRODUCT
@@ -78954,6 +84416,12 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 Baby B-PRODUCT
 bath I-PRODUCT
 toys I-PRODUCT
@@ -78996,9 +84464,13 @@ toys I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
 1600ብር B-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 Made B-PRODUCT
 in I-PRODUCT
@@ -79034,10 +84506,38 @@ soks I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 950 B-PRODUCT
 ብር I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 good B-PRODUCT
 quality I-PRODUCT
@@ -79082,6 +84582,10 @@ brand I-PRODUCT
 0945097042 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
 100% B-PRODUCT
 cotton I-PRODUCT
 stoking I-PRODUCT
@@ -79095,6 +84599,8 @@ colours O
 birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 AVEHNI B-PRODUCT
 NATURAL I-PRODUCT
@@ -79118,6 +84624,18 @@ bottle I-PRODUCT
 850ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 Shower B-PRODUCT
 cap I-PRODUCT
@@ -79161,6 +84679,16 @@ cap I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 high I-PRODUCT
 chair I-PRODUCT
@@ -79173,6 +84701,10 @@ delivery O
 ያለውን O
 ቪዲዮ O
 ይመልከቱ O
+
+
+
+
 
 Marry B-PRODUCT
 Baby I-PRODUCT
@@ -79208,6 +84740,10 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 Sky B-PRODUCT
 baby I-PRODUCT
@@ -79254,6 +84790,12 @@ potty I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 Kids B-PRODUCT
 potty I-PRODUCT
 ጎማው O
@@ -79262,6 +84804,14 @@ potty I-PRODUCT
 1700ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 Car B-PRODUCT
 toy I-PRODUCT
@@ -79289,6 +84839,14 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 አዲስ B-PRODUCT
 ሞዴል I-PRODUCT
 ልጆች I-PRODUCT
@@ -79302,6 +84860,18 @@ delivery O
 950ብር I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 በአራት B-PRODUCT
 መልኩ I-PRODUCT
@@ -79352,6 +84922,18 @@ delivery O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
+
+
+
+
 quality B-PRODUCT
 Walking I-PRODUCT
 shoes I-PRODUCT
@@ -79372,6 +84954,18 @@ shoes I-PRODUCT
 0945097042 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
 750 B-PRODUCT
 ብር I-PRODUCT
 0905707448 I-PHONE
@@ -79386,6 +84980,12 @@ teether I-PRODUCT
 100ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 Cosco B-PRODUCT
 ጠንካራ I-PRODUCT
@@ -79407,6 +85007,10 @@ free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 Dasher B-PRODUCT
 remote I-PRODUCT
@@ -79440,6 +85044,14 @@ car O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 መኪናው B-PRODUCT
 በቻርጅ I-PRODUCT
 ሪሞቱ I-PRODUCT
@@ -79464,6 +85076,16 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 በቻርጅ B-PRODUCT
 የሚሰራ I-PRODUCT
 ሄሊኮፕተር I-PRODUCT
@@ -79481,6 +85103,8 @@ delivery O
 ይመልከቱ O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 appple B-PRODUCT
 bear I-PRODUCT
@@ -79515,6 +85139,8 @@ stoking I-PRODUCT
 600birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 Mug B-PRODUCT
 ክዳኑን O
@@ -79551,11 +85177,21 @@ birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 2 B-PRODUCT
 pcs I-PRODUCT
 200ብር I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 quality B-PRODUCT
 Walking I-PRODUCT
@@ -79577,6 +85213,8 @@ shoes I-PRODUCT
 0945097042 I-PHONE
 0905707448 I-PHONE
 
+
+
 100% B-PRODUCT
 cotton I-PRODUCT
 quality I-PRODUCT
@@ -79594,6 +85232,26 @@ brush I-PRODUCT
 450ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 all B-PRODUCT
 are I-PRODUCT
@@ -79628,6 +85286,22 @@ sina O
 kids O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 all B-PRODUCT
 are I-PRODUCT
@@ -79703,6 +85377,12 @@ delivery O
 ላይ O
 ያገኙናል O
 
+
+
+
+
+
+
 አልቋል B-PRODUCT
 ላልናቹ I-PRODUCT
 በድጋሚ I-PRODUCT
@@ -79749,6 +85429,8 @@ Device O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
 made B-PRODUCT
 in I-PRODUCT
 turkey I-PRODUCT
@@ -79792,6 +85474,8 @@ turkey I-PRODUCT
 መልካም O
 ቀን O
 
+
+
 Made B-PRODUCT
 in I-PRODUCT
 turkey I-PRODUCT
@@ -79817,11 +85501,19 @@ turkey I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 Made B-PRODUCT
 in I-PRODUCT
 turkey I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 Made B-PRODUCT
 in I-PRODUCT
@@ -79843,6 +85535,10 @@ in I-PRODUCT
 turkey I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 made B-PRODUCT
 in I-PRODUCT
@@ -79888,6 +85584,8 @@ years O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
 Made B-PRODUCT
 in I-PRODUCT
 turkey I-PRODUCT
@@ -79929,6 +85627,10 @@ years O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 brand B-PRODUCT
 BERR I-PRODUCT
 shoes I-PRODUCT
@@ -79936,6 +85638,10 @@ shoes I-PRODUCT
 1800ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 melani B-PRODUCT
 brand I-PRODUCT
@@ -79945,6 +85651,12 @@ shoes I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 melani B-PRODUCT
 brand I-PRODUCT
 shoes I-PRODUCT
@@ -79952,6 +85664,14 @@ shoes I-PRODUCT
 2000ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 1400ብር B-PRODUCT
 0905707448 I-PHONE
@@ -80012,6 +85732,14 @@ shoes I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 infant B-PRODUCT
 to I-PRODUCT
 toddler I-PRODUCT
@@ -80052,6 +85780,28 @@ delivery O
 ቪዲዮውን O
 ይመልከቱ O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 650ብር B-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
@@ -80082,9 +85832,37 @@ delivery O
 ላይ O
 ያገኙናል O
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 650ብር B-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -80149,6 +85927,16 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 ኳሊቲ B-PRODUCT
 ወፋራም I-PRODUCT
 የሴት I-PRODUCT
@@ -80161,6 +85949,12 @@ delivery O
 አመት O
 0945097042 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
 
 የሴቶች B-PRODUCT
 ሆትፓት I-PRODUCT
@@ -80175,6 +85969,8 @@ delivery O
 የሚሆን O
 0945097042 I-PHONE
 0905707448 I-PHONE
+
+
 
 2pcs B-PRODUCT
 hotpant I-PRODUCT
@@ -80194,6 +85990,12 @@ hotpant I-PRODUCT
 ቁጥር O
 0945097042 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
 
 2pcs B-PRODUCT
 hot I-PRODUCT
@@ -80215,13 +86017,29 @@ pants I-PRODUCT
 0945097042 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
 1100ብር B-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
 1000ብር B-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 2 B-PRODUCT
 pcs I-PRODUCT
@@ -80230,6 +86048,10 @@ pcs I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 450ብር B-PRODUCT
 አድራሻችን O
 ኢምፔሪያል I-LOC
@@ -80263,6 +86085,14 @@ pcs I-PRODUCT
 ቁጥር O
 0945097042 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
+
+
 
 10pec B-PRODUCT
 baby I-PRODUCT
@@ -80279,6 +86109,8 @@ Free O
 delivery O
 0945097042 I-PHONE
 0905707448 I-PHONE
+
+
 
 ኦሪጅናል B-PRODUCT
 ጥራቱን I-PRODUCT
@@ -80359,6 +86191,14 @@ delivery O
 0945097042 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
+
+
 New B-PRODUCT
 born I-PRODUCT
 to I-PRODUCT
@@ -80393,13 +86233,25 @@ delivery O
 0945097042 I-PHONE
 0905707448 I-PHONE
 
+
+
 1000ብር B-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 1150ብር B-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 አዲስ B-PRODUCT
 ሞዴል I-PRODUCT
@@ -80435,6 +86287,12 @@ delivery O
 እንደገቡ O
 ያገኙናል O
 
+
+
+
+
+
+
 ኦሪጅናል B-PRODUCT
 የቱርክ I-PRODUCT
 ጂንስ I-PRODUCT
@@ -80446,6 +86304,14 @@ delivery O
 850ብር B-PRODUCT
 0945097042 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
+
+
 
 DKNY B-PRODUCT
 BIG I-PRODUCT
@@ -80483,6 +86349,14 @@ pyjamas I-PRODUCT
 ያገኙናል O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 ጥራታቸውን B-PRODUCT
 የጠበቁ I-PRODUCT
@@ -80548,17 +86422,25 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
 1700ብር B-PRODUCT
 Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
 2200ብር B-PRODUCT
 free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 500ብር B-PRODUCT
 0905707448 I-PHONE
@@ -80603,6 +86485,14 @@ delivery O
 0945097042 I-PHONE
 0905707448 I-PHONE
 
+
+
+
+
+
+
+
+
 የቱርክ B-PRODUCT
 ምርት I-PRODUCT
 የሆኑ I-PRODUCT
@@ -80633,6 +86523,8 @@ NIKE O
 2800ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 XUNYI B-PRODUCT
 manual I-PRODUCT
@@ -80678,6 +86570,16 @@ delivery O
 Sold B-PRODUCT
 out I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 kingdom I-PRODUCT
 original I-PRODUCT
@@ -80694,6 +86596,18 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kids B-PRODUCT
 laptop I-PRODUCT
@@ -80725,6 +86639,16 @@ free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 Penta B-PRODUCT
 kids I-PRODUCT
@@ -80772,6 +86696,10 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 Baby B-PRODUCT
 bath I-PRODUCT
 toys I-PRODUCT
@@ -80811,6 +86739,14 @@ toys I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 Yockan B-PRODUCT
 yoyo I-PRODUCT
 1pcs O
@@ -80841,6 +86777,10 @@ birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 100% B-PRODUCT
 cotton I-PRODUCT
 stoking I-PRODUCT
@@ -80855,11 +86795,21 @@ birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 Kids B-PRODUCT
 potty I-PRODUCT
 1500ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 Kids B-PRODUCT
 potty I-PRODUCT
@@ -80870,16 +86820,7 @@ potty I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
-New B-PRODUCT
-model's I-PRODUCT
-Baby O
-Turban O
-Made O
-in O
-turkey O
-350birr I-PRICE
-0905707448 I-PHONE
-0945097042 I-PHONE
+
 
 New B-PRODUCT
 model's I-PRODUCT
@@ -80891,6 +86832,31 @@ turkey O
 350birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+New B-PRODUCT
+model's I-PRODUCT
+Baby O
+Turban O
+Made O
+in O
+turkey O
+350birr I-PRICE
+0905707448 I-PHONE
+0945097042 I-PHONE
+
+
+
+
 
 Legendary B-PRODUCT
 baby I-PRODUCT
@@ -80911,6 +86877,10 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 Infant B-PRODUCT
 baby I-PRODUCT
 shower I-PRODUCT
@@ -80919,6 +86889,12 @@ bed I-PRODUCT
 600ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 አልቋል B-PRODUCT
 ላልናቹ I-PRODUCT
@@ -80969,6 +86945,12 @@ delivery O
 ያለውን O
 ቪዲዮይመልከቱ O
 
+
+
+
+
+
+
 Baby's B-PRODUCT
 view I-PRODUCT
 3-stage I-PRODUCT
@@ -80989,8 +86971,18 @@ free O
 delivery O
 0905707448 I-PHONE
 
+
+
+
+
+
+
+
+
 Sold B-PRODUCT
 out I-PRODUCT
+
+
 
 Kids B-PRODUCT
 star I-PRODUCT
@@ -81033,6 +87025,12 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 ላባ B-PRODUCT
 ምቹ I-PRODUCT
 የልጆች I-PRODUCT
@@ -81040,6 +87038,10 @@ delivery O
 700ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 ONLY B-PRODUCT
 baby I-PRODUCT
@@ -81056,6 +87058,10 @@ mug I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 Toyota B-PRODUCT
 land I-PRODUCT
 cruiser I-PRODUCT
@@ -81067,10 +87073,22 @@ car I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 750 B-PRODUCT
 ብር I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 Shovel B-PRODUCT
 loader I-PRODUCT
@@ -81093,6 +87111,16 @@ excavator I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 በሪሞት B-PRODUCT
 የሚሰራ I-PRODUCT
 ውብ I-PRODUCT
@@ -81102,6 +87130,12 @@ excavator I-PRODUCT
 900ብር I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 በባትሪ B-PRODUCT
 የሚሰራ I-PRODUCT
@@ -81121,6 +87155,22 @@ out I-PRODUCT
 Sold B-PRODUCT
 out I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2 B-PRODUCT
 in I-PRODUCT
 1 I-PRODUCT
@@ -81137,6 +87187,10 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 የለልጆች B-PRODUCT
 ዥዋዥዌ I-PRODUCT
@@ -81156,6 +87210,10 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 የልጆች B-PRODUCT
 የሽንት I-PRODUCT
 ቤት I-PRODUCT
@@ -81165,6 +87223,18 @@ delivery O
 900ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 Brand B-PRODUCT
 new I-PRODUCT
@@ -81222,6 +87292,18 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
 Mastela B-PRODUCT
 infant I-PRODUCT
 to I-PRODUCT
@@ -81254,6 +87336,10 @@ delivery O
 0905707448 I-PHONE
 ቪዲዮውን O
 ይመልከቱ O
+
+
+
+
 
 #ባለ B-PRODUCT
 ሁለት I-PRODUCT
@@ -81311,6 +87397,18 @@ delivery O
 Free O
 delivery O
 
+
+
+
+
+
+
+
+
+
+
+
+
 ውብ B-PRODUCT
 ምቹ I-PRODUCT
 እና I-PRODUCT
@@ -81351,6 +87449,16 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 ውብ B-PRODUCT
 ምቹ I-PRODUCT
 እና I-PRODUCT
@@ -81387,6 +87495,14 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 ረዘም B-PRODUCT
 ያለ I-PRODUCT
 ምቹ I-PRODUCT
@@ -81395,6 +87511,8 @@ delivery O
 800ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 ከፍ B-PRODUCT
 ላሉ I-PRODUCT
@@ -81408,6 +87526,14 @@ delivery O
 800ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 SHENMA B-PRODUCT
 baby I-PRODUCT
@@ -81437,6 +87563,36 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ለአዋቂም B-PRODUCT
 ለልጅም I-PRODUCT
 የሚሆን I-PRODUCT
@@ -81460,6 +87616,10 @@ delivery O
 750ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 Child B-PRODUCT
 play I-PRODUCT
@@ -81543,6 +87703,14 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 በባትሪ B-PRODUCT
 የሚሰራ I-PRODUCT
 እየተሽከረከረ I-PRODUCT
@@ -81567,6 +87735,10 @@ delivery O
 ይመልከቱ O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 Baby B-PRODUCT
 travle I-PRODUCT
@@ -81613,6 +87785,14 @@ pacifier I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 አልቋል B-PRODUCT
 ላልናቹ I-PRODUCT
 በድጋሚ I-PRODUCT
@@ -81632,6 +87812,10 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 አልቋል B-PRODUCT
 ላልናቹ I-PRODUCT
@@ -81665,6 +87849,10 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
 
 አልቋል B-PRODUCT
 ላልናቹ I-PRODUCT
@@ -81700,6 +87888,18 @@ feeder O
 0905707448 I-PHONE
 0945097042 I-PHONE
 ይደውሉ O
+
+
+
+
+
+
+
+
+
+
+
+
 
 አልቋል B-PRODUCT
 ላልናቹ I-PRODUCT
@@ -81801,6 +88001,14 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 baby B-PRODUCT
 music I-PRODUCT
 walker I-PRODUCT
@@ -81809,6 +88017,14 @@ free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 Adjustable B-PRODUCT
 nursing I-PRODUCT
@@ -81824,6 +88040,12 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 Round B-PRODUCT
 comfy I-PRODUCT
 gym I-PRODUCT
@@ -81837,12 +88059,34 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 የልጆች B-PRODUCT
 መዘነጫ I-PRODUCT
 ባግ I-PRODUCT
 600ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 የልጆች B-PRODUCT
 መመገቢያ I-PRODUCT
@@ -81858,6 +88102,14 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 robot B-PRODUCT
 car I-PRODUCT
 ቪዲዮውን O
@@ -81865,6 +88117,18 @@ car I-PRODUCT
 700ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
 
 የልጆች B-PRODUCT
 ፀጉር I-PRODUCT
@@ -81876,11 +88140,23 @@ car I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 1350ብር B-PRODUCT
 Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 Funny B-PRODUCT
 sand I-PRODUCT
@@ -81926,6 +88202,8 @@ delivery O
 Sold B-PRODUCT
 out I-PRODUCT
 
+
+
 ዎኪንግ B-PRODUCT
 ሹዝ I-PRODUCT
 እና I-PRODUCT
@@ -81935,6 +88213,8 @@ out I-PRODUCT
 300ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 Nova B-PRODUCT
 Foldable I-PRODUCT
@@ -81999,6 +88279,8 @@ out I-PRODUCT
 Sold B-PRODUCT
 out I-PRODUCT
 
+
+
 Japanese B-PRODUCT
 Retractable I-PRODUCT
 Clothline I-PRODUCT
@@ -82060,6 +88342,18 @@ birr I-PRICE
 Sold B-PRODUCT
 out I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
+
+
 ውበት B-PRODUCT
 ጥራታቸውን I-PRODUCT
 የጠበቁ I-PRODUCT
@@ -82073,6 +88367,12 @@ out I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
 Baby B-PRODUCT
 Mug I-PRODUCT
 with I-PRODUCT
@@ -82080,6 +88380,14 @@ strow I-PRODUCT
 200birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 Baby B-PRODUCT
 Turban I-PRODUCT
@@ -82098,6 +88406,12 @@ turkey O
 600birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 R-doctor B-PRODUCT
 multifunction I-PRODUCT
@@ -82124,6 +88438,14 @@ cups O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 baby B-PRODUCT
 walker I-PRODUCT
 toddler I-PRODUCT
@@ -82140,6 +88462,8 @@ out I-PRODUCT
 
 Sold B-PRODUCT
 out I-PRODUCT
+
+
 
 ልጆች B-PRODUCT
 የአካል I-PRODUCT
@@ -82162,6 +88486,14 @@ out I-PRODUCT
 850ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 Woodn B-PRODUCT
 skate I-PRODUCT
@@ -82192,6 +88524,20 @@ to O
 increase O
 breast O
 milk O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 BLB B-PRODUCT
 3 I-PRODUCT
@@ -82243,6 +88589,18 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
 Baby B-PRODUCT
 Turban I-PRODUCT
 Made O
@@ -82271,6 +88629,10 @@ tube I-PRODUCT
 Free O
 delivery O
 
+
+
+
+
 በባትሪ B-PRODUCT
 የሚሰራ I-PRODUCT
 እየተሽከረከረ I-PRODUCT
@@ -82292,6 +88654,10 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 Happy B-PRODUCT
 elephant I-PRODUCT
 360 I-PRICE
@@ -82312,6 +88678,14 @@ elephant I-PRODUCT
 700ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 Police B-PRODUCT
 balance I-PRODUCT
@@ -82340,6 +88714,10 @@ car I-PRODUCT
 Sold B-PRODUCT
 out I-PRODUCT
 
+
+
+
+
 Fashion B-PRODUCT
 princess I-PRODUCT
 360 I-PRICE
@@ -82360,6 +88738,16 @@ princess I-PRODUCT
 700ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 Angel B-PRODUCT
 girl I-PRODUCT
@@ -82383,6 +88771,8 @@ girl I-PRODUCT
 700ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 ልጆቼ B-PRODUCT
 በምን I-PRODUCT
@@ -82454,6 +88844,16 @@ delivery O
 ደስታ I-PRODUCT
 ነው I-PRODUCT
 
+
+
+
+
+
+
+
+
+
+
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
 የሚስብ I-PRODUCT
@@ -82470,6 +88870,20 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 በበርገር B-PRODUCT
 ዲዛይን I-PRODUCT
 የተሰራየልጆችን I-PRODUCT
@@ -82484,6 +88898,16 @@ delivery O
 ብር I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 የልጆችን B-PRODUCT
 ቀልብ I-PRODUCT
@@ -82503,11 +88927,17 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 Baby B-PRODUCT
 turban I-PRODUCT
 350birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 Mickey B-PRODUCT
 mouse I-PRODUCT
@@ -82519,6 +88949,8 @@ tiara I-PRODUCT
 Sold B-PRODUCT
 out I-PRODUCT
 
+
+
 Manual B-PRODUCT
 comfortable I-PRODUCT
 breast I-PRODUCT
@@ -82528,6 +88960,14 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
 
 Chicco B-PRODUCT
 brand I-PRODUCT
@@ -82572,6 +89012,14 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
 Only B-PRODUCT
 baby I-PRODUCT
 ሚልክ O
@@ -82586,6 +89034,10 @@ baby I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 Baby B-PRODUCT
 girl I-PRODUCT
 yellow I-PRODUCT
@@ -82596,6 +89048,8 @@ year O
 300birr I-PRICE
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 Magnetic B-PRODUCT
 dart I-PRODUCT
@@ -82608,6 +89062,8 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 Sky B-PRODUCT
 baby I-PRODUCT
@@ -82653,6 +89109,12 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
 
 ብዙ B-PRODUCT
 አገልግሎቶችን I-PRODUCT
@@ -82721,6 +89183,18 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
+
+
 5pcs B-PRODUCT
 baby I-PRODUCT
 set I-PRODUCT
@@ -82743,6 +89217,12 @@ delivery O
 ይፃፉልን I-PRODUCT
 እናመሰግናለን I-PRODUCT
 
+
+
+
+
+
+
 Baby B-PRODUCT
 play I-PRODUCT
 tent I-PRODUCT
@@ -82761,6 +89241,20 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Curious B-PRODUCT
 baby I-PRODUCT
@@ -82789,6 +89283,10 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
 Made B-PRODUCT
 in I-PRODUCT
 turkey I-PRODUCT
@@ -82815,6 +89313,16 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
+
+
+
+
+
+
+
+
 Toilet B-PRODUCT
 trainer I-PRODUCT
 ጠንካራ O
@@ -82833,6 +89341,16 @@ Free O
 delivery O
 0945097042 I-PHONE
 0905707448 I-PHONE
+
+
+
+
+
+
+
+
+
+
 
 ወንበር B-PRODUCT
 ላይ I-PRODUCT
@@ -82867,6 +89385,8 @@ delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
 
+
+
 Electrical B-PRODUCT
 comfortable I-PRODUCT
 breast I-PRODUCT
@@ -82879,6 +89399,8 @@ delivery O
 sold B-PRODUCT
 out I-PRODUCT
 
+
+
 ምቹ B-PRODUCT
 የልጆች I-PRODUCT
 ፖፖ I-PRODUCT
@@ -82890,6 +89412,8 @@ Free O
 delivery O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 ለልጆች B-PRODUCT
 ምቹ I-PRODUCT
@@ -82930,6 +89454,8 @@ delivery O
 ያሉበት O
 እናደርሳለን O
 
+
+
 Baby B-PRODUCT
 potty I-PRODUCT
 በባትሪ O
@@ -82944,10 +89470,18 @@ potty I-PRODUCT
 0945097042 I-PHONE
 t.me/sinayelj O
 
+
+
+
+
+
+
 Baby B-PRODUCT
 potty I-PRODUCT
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
 ውድ B-PRODUCT
 የሲና I-PRODUCT
@@ -82975,4 +89509,6 @@ potty I-PRODUCT
 እናደርስሎታለን O
 0905707448 I-PHONE
 0945097042 I-PHONE
+
+
 
